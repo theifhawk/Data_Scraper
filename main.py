@@ -6,19 +6,18 @@ def main():
 
 
 def scrape():
-    url = "https://archidekt.com/decks/6122714/sand_in_my_eyes"
+    url = "https://onepiece.fandom.com/wiki/Episode_Guide/East_Blue_Saga"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    #title = soup.select_one('h1').text
-    #text = soup.select_one('p').text
-    #link = soup.select_one('a').get('href')
-    #print(title)
-    #print(text)
-    #print(link)
-    print(soup)
+    tags = soup.find_all('table', class_="collapsible collapsed")
+    episodes = []
+    for tag in tags:
+        episodes.append(tag)
+        
+    
+    for episode in episodes:
+        print(episode)
 
-    #for link in soup.find_all('a'):
-        #print(link.get('href'))
 
 
 if __name__ == "__main__":
