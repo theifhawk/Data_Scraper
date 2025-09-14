@@ -16,7 +16,9 @@ def scrape():
     for tag in tags:
         episodes.append(tag)
     
-    tag_finder.find_a(episodes)
+    #tag_finder.find_a(episodes)
+    #tag_finder.find_background_color(episodes)
+    tag_finder.find_ep_number(episodes)
 
 
 
