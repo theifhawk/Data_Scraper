@@ -11,14 +11,11 @@ def scrape():
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     tags = soup.find_all('table', class_="collapsible collapsed")
-    # These will be the tables
     episodes = []
     for tag in tags:
         episodes.append(tag)
-    
-    #tag_finder.find_a(episodes)
-    #tag_finder.find_background_color(episodes)
-    tag_finder.find_ep_number(episodes)
+     
+    tag_finder.find_info(episodes)
 
 
 

@@ -1,35 +1,7 @@
 
 import re
 
-
-def find_a(episodes):
-    episode_titles = []
-    # For each table, find the A tag
-    for episode in episodes:
-        if episode:
-            for row in episode.find_all('tr'):
-                for cell in row.find_all(['td', 'th']):
-                    target_tag = cell.find('a')
-                    if target_tag:
-                        # print(f"Found tag: {target_tag.name} with text: {target_tag.get_text()}")
-                        episode_titles.append(target_tag.get_text())
-    print(len(episode_titles))
-    for title in episode_titles:
-        print(title)
-
-def find_background_color(episodes):
-    colors = []
-    for episode in episodes:
-        if episode:
-            tag = episode.find('th')
-            style = tag.get('style')
-            match = re.search(r'background\s*:\s*([^;]+)', style)
-            if match:
-                background_color = match.group(1).strip()
-                colors.append(background_color)
-    print(len(colors))
-
-def find_ep_number(episodes):
+def find_info(episodes):
     for episode in episodes:
         if episode:
             tag_td = episode.find_all('td')
