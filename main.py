@@ -22,7 +22,7 @@ def main():
     for row in OP_data:
         length = len(df)
         df.loc[length] = row
-    
+    df.to_csv('output.csv', index=False)
     print(df)
 
 if __name__ == "__main__":
