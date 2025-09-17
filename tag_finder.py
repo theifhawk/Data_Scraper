@@ -2,6 +2,7 @@
 import re
 
 def find_info(episodes):
+    ep_list = []
     for episode in episodes:
         if episode:
             tag_td = episode.find_all('td')
@@ -16,13 +17,15 @@ def find_info(episodes):
                     if ':' in item
                 )
             background_value = style_dict.get('background')
+            ep = []
+            ep.append(tag_td[0].get_text().strip())
+            ep.append(tag_a[0].get_text().strip())
+            ep.append(contents[2].strip())
+            ep.append(tag_td[1].get_text().strip())
+            ep.append(background_value)
+            ep_list.append(ep)
 
-            print()
-            print(background_value)
-            print("ep num is:", tag_td[0].get_text())
-            print("air date is:", tag_td[1].get_text())
-            print("Eng Title: ", tag_a[0].get_text())
-            print("Jap Title: ", contents[2])
+    return(ep_list)
 
 
         

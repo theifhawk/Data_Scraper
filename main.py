@@ -1,9 +1,7 @@
 import requests
 import tag_finder
 from bs4 import BeautifulSoup
-
-def main():
-    print("hello world")
+import pandas as pd
 
 
 def scrape():
@@ -14,10 +12,18 @@ def scrape():
     episodes = []
     for tag in tags:
         episodes.append(tag)
-     
     tag_finder.find_info(episodes)
+    return(tag_finder.find_info(episodes))
 
-
+def main():
+    OP_table = ['Episode Number', 'English Title' , 'Japanese Title', 'Release Date', 'Color']
+    OP_data = scrape()
+    df = pd.DataFrame(columns = OP_table)
+    for row in OP_data:
+        length = len(df)
+        df.loc[length] = row
+    
+    print(df)
 
 if __name__ == "__main__":
-    scrape()
+    main()
