@@ -1,5 +1,6 @@
-# Job_scraper
-Looking at job posts to identify trends and qualifications that employers are looking for to use as data to analyze.
+# Data Webscraper
+Having troubling finding the datasets?\
+Find your own with this Webscraper
 
 ## Objectives
 -> Build Web Scraper\
