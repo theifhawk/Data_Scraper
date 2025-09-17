@@ -14,5 +14,6 @@ Find your own with this Webscraper
 -> Beautiful Soap
 
 ### Collection of Data into Database
--> SQLite
+-> SQLite\
+-> Pandas dataframe
 
