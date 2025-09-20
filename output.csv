@@ -1,68 +1,1229 @@
-Episode Number,English Title,Japanese Title,Release Date,Color
-1,One Piece - Defeat Him! The Pirate Ganzack,One Piece Taose! Kaizoku Gyanzakku (ワンピース 倒せ！海賊ギャンザック),"July 26, 1998",#FFCCCC
-001,I'm Luffy! The Man Who Will Become the Pirate King!,Ore wa Rufi! Kaizoku Ō ni naru Otoko da! (俺はルフィ！海賊王になる男だ！),"October 20, 1999",#F2F2F2
-002,The Great Swordsman Appears! Pirate Hunter Roronoa Zoro,Daikengō Arawaru! Kaizokugari Roronoa Zoro (大剣豪現る！海賊狩りロロノア・ゾロ),"November 17, 1999",#F2F2F2
-003,Morgan vs. Luffy! Who's This Mysterious Beautiful Young Girl?,Mōgan tai Rufi! Nazo no Bishōjo wa Dare? (モーガンVSルフィ！謎の美少女は誰？),"November 24, 1999",#F2F2F2
-004,Luffy's Past! The Red-Haired Shanks Appears!,Rufi no Kako! Akagami no Shankusu Tōjō (ルフィの過去！赤髪のシャンクス登場),"December 8, 1999",#F2F2F2
-005,"Fear, Mysterious Power! Pirate Clown Captain Buggy!",Kyōfu Nazo no Chikara! Kaizoku Dōke Bagī Senchō! (恐怖　謎の力！海賊道化バギー船長！),"December 15, 1999",#F2F2F2
--,"Emergency Planning, A Perfect  Strategy for the One Piece",Kinkyū Kikaku Wan Pīsu Kanzen Kōryakuhō (緊急企画 ワンピース完全攻略法),"December 22[1], 1999",#FF9F80
-006,Desperate Situation! Beast Tamer Mohji vs. Luffy!,Zettai Zetsumei! Mōjūtsukai Mōji VS Rufi! (絶体絶命！猛獣使いモージＶＳルフィ！),"December 29, 1999",#F2F2F2
-007,Grand Duel! Zoro the Swordsman vs. Cabaji the Acrobat!,Sōzetsu Kettō! Kengō Zoro VS Kyokugei no Kabaji! (壮絶決闘！剣豪ゾロＶＳ曲芸のカバジ！),"December 29, 1999",#F2F2F2
-008,Who Will Win? Showdown Between the True Powers of the Devil Fruit!,Shōsha wa Docchi? Akuma no Mi no Nōryoku Taiketsu! (勝者はどっち？悪魔の実の能力対決！),"December 29, 1999",#F2F2F2
-009,Honorable Liar? Captain Usopp,Seigi no usotsuki? Kyaputen Usoppu (正義のうそつき?キャプテンウソップ),"January 12, 2000",#F2F2F2
-010,The World's Strongest Weirdo! Jango the Hypnotist!,Shijō saikyō no henna yatsu! Saiminjutsushi Jango (史上最強の変な奴！催眠術師ジャンゴ),"January 19, 2000",#F2F2F2
-011,"Revealing the Conspiracy! The Pirate Caretaker, Captain Kuro!",Inbō o abake! Kaizoku shitsuji Kyaputen Kuro (陰謀を暴け！海賊執事キャプテンクロ),"January 26, 2000",#F2F2F2
-012,Battle! The Black Cat Pirate Crew. Battle on the Slope!,Gekitotsu! Kuroneko kaizoku-dan sakamichi no daikōbō! (激突！クロネコ海賊団坂道の大攻防！),"February 2, 2000",#F2F2F2
-013,The Terrifying Duo! Nyaban Brothers vs. Zoro,Kyōfu no futarigumi! Nyāban Burazāsu VS Zoro (恐怖の二人組！ニャーバン兄弟VSゾロ),"February 9, 2000",#F2F2F2
-014,Luffy's Revival! Miss Kaya's Life and Death Confrontation,Rufi fukkatsu! Kaya ojō-sama no kesshi no teikō (ルフィ復活！カヤお嬢様の決死の抵抗),"February 16, 2000",#F2F2F2
-015,Defeat Kuro! Usopp's Tear-filled Determination!,Kuro o taose! Otoko Usoppu namida no ketsui! (クロを倒せ！男ウソップ涙の決意！),"February 23, 2000",#F2F2F2
-016,Protect Kaya! Usopp Pirate Gang Takes Action!,Kaya o mamore! Usoppu kaizokudan dai katsuyaku! (カヤを守れ！ウソップ海賊団大活躍！),"March 1, 2000",#F2F2F2
-01,One Piece: The Movie,Wan Pīsu (ワンピース),"March 4, 2000",#ABCDEF
-017,"Completely Infuriated! Kuro vs. Luffy, Final Battle!",Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue! (怒り爆発！クロVSルフィ決着の行方！),"March 8, 2000",#F2F2F2
-018,You Are a Special Animal! Gaimon and His Bizarre Friends,Anta ga chinjū! Gaimon to kimyō na nakama (あんたが珍獣！ガイモンと奇妙な仲間),"March 15, 2000",#F2F2F2
-019,Past of the Three Swords! The Promise Between Zoro and Kuina!,Santōryū no kako! Zoro to Kuina no chikai! (三刀流の過去！ゾロとくいなの誓い！),"March 22, 2000",#F2F2F2
-020,The Famous Cook! Sanji of the Floating Restaurant,Meimono Kokku! Kaijō Resutoran no Sanji (名物コック！海上レストランのサンジ),"April 12, 2000",#F2F2F2
-021,An Unexpected Guest! Sanji's Food and Gin's Grace,Manekarezaru kyaku! Sanji no meshi to Gin no on (招かれざる客！サンジの飯とギンの恩),"April 12, 2000",#F2F2F2
-022,The Greatest Pirate Fleet: Captain Don Krieg,Saikyō no kaizoku kantai! Teitoku Don Kurīku (最強の海賊艦隊！提督ドン・クリーク),"April 26, 2000",#F2F2F2
-023,Protect Baratie! The Great Pirate: Zeff the Red Leg,Mamore Baratie! Dai kaizoku - Akaashi no Zefu (守れバラティエ！大海賊・赫足のゼフ),"May 3, 2000",#F2F2F2
-024,Hawk Eyes Mihawk! Swordsman Zoro Falls into the Sea!,Taka no me no Mihōku! Kengō Zoro umi ni chiru (鷹の目のミホーク！剣豪ゾロ海に散る),"May 10, 2000",#F2F2F2
-025,The Emergence of the Superb Kicking Skill: Sanji vs. the Iron Wall Pearl,Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no Pāru (必殺足技炸裂！サンジVS鉄壁のパール),"May 17, 2000",#F2F2F2
-026,Zeff and Sanji's Ambition: The Sea of Dreams - All Blue,Zefu to Sanji no yume Maboroshi no Ōruburū (ゼフとサンジの夢　幻のオールブルー),"May 24, 2000",#F2F2F2
-027,The Coldhearted Demon: Pirate Fleet Battle Commander Gin,Reitetsu hijō no kijin kaizoku kantai sōchō Gin (冷徹非情の鬼人　海賊艦隊総隊長ギン),"May 31, 2000",#F2F2F2
-028,I Won't Die! Conclusion: Luffy vs. Krieg,Shinanee yo! Gekitō Rufi vs Kurīku! (死なねェよ!激闘ルフィVSクリーク!),"June 7, 2000",#F2F2F2
-029,Outcome of a Deadly Battle! The Inner Spear!,Shitō no Kecchaku! Hara ni kukutta ippon no yari! (死闘の決着！腹にくくった１本の槍！),"June 21, 2000",#F2F2F2
-030,Departure! Sea Chef and Luffy Travel Together!,Tabidachi! Umi no Kokku wa Rufi to tomo ni (旅立ち！海のコックはルフィとともに),"June 28, 2000",#F2F2F2
-031,"The Most Wicked Man of East Blue, Fishman Pirate Arlong",Higashi no umi saiaku no otoko! Gyojin kaizoku Āron! (東の海最悪の男！魚人海賊アーロン！),"July 12, 2000",#F2F2F2
-032,"The Witch of Cocoyashi Village, Arlong's Female Officer",Kokoyashi mura no majo! Āron no jokanbu (ココヤシ村の魔女！アーロンの女幹部),"July 19, 2000",#F2F2F2
-033,Usopp's Death?! Luffy - Yet To Land?,Usoppo shisu? Rufi jōriku wa mada? (ウソップ死す？！ルフィ上陸はまだ？),"July 19, 2000",#F2F2F2
-034,Reunited! Usopp Tells Nami's True Story,Zen'in shūketsu! Usoppu ga kataru Nami no shinjitsu (全員集結！ウソップが語るナミの真実),"July 26, 2000",#F2F2F2
-035,The Hidden Past! Female Fighter Bellemere!,Himerareta kako! Josenshi Berumēru! (秘められた過去！女戦士ベルメール！),"August 2, 2000",#F2F2F2
-036,Survive! The Mother Bellemere and Nami's Family!,Ikinuke! Haha Berumēru to Nami no kizuna! (生き抜け！母ベルメールとナミの絆！),"August 9, 2000",#F2F2F2
-037,Luffy Stands Up! End of a Broken Promise!,Rufi tatsu! Uragirareta yakusoku no ketsumatsu! (ルフィ立つ！裏切られた約束の結末！),"August 16, 2000",#F2F2F2
-038,Luffy in Trouble! Fishmen vs. Luffy Pirates!,Rufi Dai Pinchi! Gyojin vs Rufi kaizokudan (ルフィ大ピンチ！魚人VSルフィ海賊団),"August 23, 2000",#F2F2F2
-039,Luffy Drowning! Zoro vs. Octopus Hatchan!,Rufi suibotsu! Zoro vs tako no Hacchan (ルフィ水没！ゾロVSタコのはっちゃん),"August 30, 2000",#F2F2F2
-040,"Proud, Tall Warriors! Dramatic Battle of Sanji and Usopp!",Hokori takaki senshi! Gekitō Sanji to Usoppu (誇り高き戦士！激闘サンジとウソップ),"September 6, 2000",#F2F2F2
-041,Luffy's Best! Nami's Courage and the Straw Hat,Rufi Zenkai! Nami no ketsui to mugiwara bōshi (ルフィ全開！ナミの決意と麦わら帽子),"September 13, 2000",#F2F2F2
-042,"Bursting Out! Fishman Arlong, Fearsome Attack From The Sea!",Sakuretsu! Gyojin Āron umi kara no mōkōgeki! (炸裂！魚人ア!）ロン海からの猛攻撃！),"September 27, 2000",#F2F2F2
-043,The End of the Fishman Empire! Nami is my Friend!,Gyojin teikoku no owari! Nami wa ore no nakama da! (魚人帝国の終わり！ナミは俺の仲間だ！),"September 27, 2000",#F2F2F2
-044,"Setting off with a Smile! Farewell my Hometown, Cocoyashi Village!",Egao no tabidachi! Saraba furusato Kokoyashi mura (笑顔の旅立ち！さらば故郷ココヤシ村),"October 11, 2000",#F2F2F2
-045,Bounty! Straw Hat Luffy Becomes World Famous!,Shōkinkubi! Mugiwara no Rufi yo ni shirewataru (賞金首！麦わらのルフィ世に知れ渡る),"October 25, 2000",#F2F2F2
-046,Following the Straw Hat! Little Buggy's Big Adventure,Mugiwara o oe! Chīsana Bagī no dai bōken (麦わらを追え！小さなバギーの大冒険),"November 1, 2000",#F2F2F2
-047,You've Been Waiting For It! The Return of Captain Buggy!,Omachi ka ne! Aa fukkatsu no Bagī Senchō (お待ちかね！あぁ復活のバギー船長！),"November 8, 2000",#F2F2F2
-048,The Town of the Beginning and the End - Arrival at Loguetown,Hajimari to owari no machi - Rōgutaun jōriku (始まりと終りの町・ローグタウン上陸),"November 22, 2000",#F2F2F2
-049,"Sandai Kitetsu and Yubashiri! Zoro's New Swords, and the Female Sergeant Major",Sandai Kitetsu to Yubashiri! Zoro no Shintō to Onna Sōchō (三代鬼徹と雪走！ゾロの新刀と女曹長),"November 22, 2000",#F2F2F2
-050,Usopp vs. Daddy The Father! Showdown at High Noon!,Usoppu vs kozure no Dadi mahiru no kettō (ウソップVS子連れのダディ真昼の決闘),"November 29, 2000",#CCFFFF
-051,A Burning Culinary Battle? Sanji vs. The Gorgeous Chef,Honō no Ryōri batoru? Sanji vs bijin shefu (炎の料理バトル?サンジVS美人シェフ),"December 6, 2000",#CCFFFF
-052,Buggy's Revenge! The Man who Smiles at the Execution Platform!,Bagī no ribenji! Shokeidai de warau otoko! (バギーのリベンジ！処刑台で笑う男！),"December 13, 2000",#F2F2F2
-1,Adventure in the Ocean's Navel,Umi no Heso no Dai Bouken (海のヘソの大冒険篇),"December 20, 2000",#FF9F80
-053,The Legend Has Begun! Head to the Grand Line,Densetsu wa hajimatta! Mezase Gurando Rain (伝説は始まった！目指せ偉大なる航路),"January 10, 2001",#F2F2F2
-054,"Foreboding of a New Adventure! The Puzzling Girl, Apis",Arata naru bōken no yokan! Nazo no shōjo Apisu (新たなる冒険の予感！謎の少女アピス),"January 17, 2001",#CCFFFF
-055,The Holy Beast! Apis' Secret and the Legendary Island,Kiseki no ikimono! Apisu no himitsu to densetsu no shima (奇跡の生物！アピスの秘密と伝説の島),"January 24, 2001",#CCFFFF
-056,Eric's Raid! Great Escape from Gunkan Island!,Erikku shutsugeki! Gunkanjima kara no dai dasshutsu! (エリック出撃！軍艦島からの大脱出！),"January 31, 2001",#CCFFFF
-057,Lone Island in a Distant Sea! The Legendary Lost Island,Zekkai no kojima! Densetsu no rosuto airando (絶海の孤島！伝説のロストアイランド),"February 7, 2001",#CCFFFF
-058,Duel in the Ruins! Strained Zoro vs. Eric,Haikyō no kettō! Kinpaku no Zoro tai Erikku! (廃墟の決闘！緊迫のゾロ対エリック！),"February 21, 2001",#CCFFFF
-059,"Luffy, Completely Surrounded! Admiral Nelson's Secret Plan",Rufi Kanzen Hōi! Teitoku Neruson no Hissaku (ルフィ完全包囲！提督ネルソンの秘策),"February 21, 2001",#CCFFFF
-060,Those Who Soar in the Open Skies! Revival of the 1000 Year Legend,Ōsora o mau mono! Yomigaeru sennen no densetsu! (大空を舞うもの！蘇る千年の伝説！),"February 28, 2001",#CCFFFF
-02,Clockwork Island Adventure,Nejimaki-shima no bōken (ねじまき島の冒険),"March 3, 2001",#ABCDEF
-1,Jango's Dance Carnival,Jango no Dansu Kānibaru (ワンピース 倒せ！海賊ギャンザック),"March 3, 2001",#FFCC99
-061,Angry Finale! Cross the Red Line!,Ikari no Ketchaku! Akai tairiku o norikoero! (怒りの決着！赤い大陸を乗り越えろ！),"March 7, 2001",#F2F2F2
+Episode Number,English Title,Release Date,Color
+1,One Piece - Defeat Him! The Pirate Ganzack,"July 26, 1998",#FFCCCC
+001,I'm Luffy! The Man Who Will Become the Pirate King!,"October 20, 1999",#F2F2F2
+002,The Great Swordsman Appears! Pirate Hunter Roronoa Zoro,"November 17, 1999",#F2F2F2
+003,Morgan vs. Luffy! Who's This Mysterious Beautiful Young Girl?,"November 24, 1999",#F2F2F2
+004,Luffy's Past! The Red-Haired Shanks Appears!,"December 8, 1999",#F2F2F2
+005,"Fear, Mysterious Power! Pirate Clown Captain Buggy!","December 15, 1999",#F2F2F2
+-,"Emergency Planning, A Perfect  Strategy for the One Piece","December 22[1], 1999",#FF9F80
+006,Desperate Situation! Beast Tamer Mohji vs. Luffy!,"December 29, 1999",#F2F2F2
+007,Grand Duel! Zoro the Swordsman vs. Cabaji the Acrobat!,"December 29, 1999",#F2F2F2
+008,Who Will Win? Showdown Between the True Powers of the Devil Fruit!,"December 29, 1999",#F2F2F2
+009,Honorable Liar? Captain Usopp,"January 12, 2000",#F2F2F2
+010,The World's Strongest Weirdo! Jango the Hypnotist!,"January 19, 2000",#F2F2F2
+011,"Revealing the Conspiracy! The Pirate Caretaker, Captain Kuro!","January 26, 2000",#F2F2F2
+012,Battle! The Black Cat Pirate Crew. Battle on the Slope!,"February 2, 2000",#F2F2F2
+013,The Terrifying Duo! Nyaban Brothers vs. Zoro,"February 9, 2000",#F2F2F2
+014,Luffy's Revival! Miss Kaya's Life and Death Confrontation,"February 16, 2000",#F2F2F2
+015,Defeat Kuro! Usopp's Tear-filled Determination!,"February 23, 2000",#F2F2F2
+016,Protect Kaya! Usopp Pirate Gang Takes Action!,"March 1, 2000",#F2F2F2
+01,One Piece: The Movie,"March 4, 2000",#ABCDEF
+017,"Completely Infuriated! Kuro vs. Luffy, Final Battle!","March 8, 2000",#F2F2F2
+018,You Are a Special Animal! Gaimon and His Bizarre Friends,"March 15, 2000",#F2F2F2
+019,Past of the Three Swords! The Promise Between Zoro and Kuina!,"March 22, 2000",#F2F2F2
+020,The Famous Cook! Sanji of the Floating Restaurant,"April 12, 2000",#F2F2F2
+021,An Unexpected Guest! Sanji's Food and Gin's Grace,"April 12, 2000",#F2F2F2
+022,The Greatest Pirate Fleet: Captain Don Krieg,"April 26, 2000",#F2F2F2
+023,Protect Baratie! The Great Pirate: Zeff the Red Leg,"May 3, 2000",#F2F2F2
+024,Hawk Eyes Mihawk! Swordsman Zoro Falls into the Sea!,"May 10, 2000",#F2F2F2
+025,The Emergence of the Superb Kicking Skill: Sanji vs. the Iron Wall Pearl,"May 17, 2000",#F2F2F2
+026,Zeff and Sanji's Ambition: The Sea of Dreams - All Blue,"May 24, 2000",#F2F2F2
+027,The Coldhearted Demon: Pirate Fleet Battle Commander Gin,"May 31, 2000",#F2F2F2
+028,I Won't Die! Conclusion: Luffy vs. Krieg,"June 7, 2000",#F2F2F2
+029,Outcome of a Deadly Battle! The Inner Spear!,"June 21, 2000",#F2F2F2
+030,Departure! Sea Chef and Luffy Travel Together!,"June 28, 2000",#F2F2F2
+031,"The Most Wicked Man of East Blue, Fishman Pirate Arlong","July 12, 2000",#F2F2F2
+032,"The Witch of Cocoyashi Village, Arlong's Female Officer","July 19, 2000",#F2F2F2
+033,Usopp's Death?! Luffy - Yet To Land?,"July 19, 2000",#F2F2F2
+034,Reunited! Usopp Tells Nami's True Story,"July 26, 2000",#F2F2F2
+035,The Hidden Past! Female Fighter Bellemere!,"August 2, 2000",#F2F2F2
+036,Survive! The Mother Bellemere and Nami's Family!,"August 9, 2000",#F2F2F2
+037,Luffy Stands Up! End of a Broken Promise!,"August 16, 2000",#F2F2F2
+038,Luffy in Trouble! Fishmen vs. Luffy Pirates!,"August 23, 2000",#F2F2F2
+039,Luffy Drowning! Zoro vs. Octopus Hatchan!,"August 30, 2000",#F2F2F2
+040,"Proud, Tall Warriors! Dramatic Battle of Sanji and Usopp!","September 6, 2000",#F2F2F2
+041,Luffy's Best! Nami's Courage and the Straw Hat,"September 13, 2000",#F2F2F2
+042,"Bursting Out! Fishman Arlong, Fearsome Attack From The Sea!","September 27, 2000",#F2F2F2
+043,The End of the Fishman Empire! Nami is my Friend!,"September 27, 2000",#F2F2F2
+044,"Setting off with a Smile! Farewell my Hometown, Cocoyashi Village!","October 11, 2000",#F2F2F2
+045,Bounty! Straw Hat Luffy Becomes World Famous!,"October 25, 2000",#F2F2F2
+046,Following the Straw Hat! Little Buggy's Big Adventure,"November 1, 2000",#F2F2F2
+047,You've Been Waiting For It! The Return of Captain Buggy!,"November 8, 2000",#F2F2F2
+048,The Town of the Beginning and the End - Arrival at Loguetown,"November 22, 2000",#F2F2F2
+049,"Sandai Kitetsu and Yubashiri! Zoro's New Swords, and the Female Sergeant Major","November 22, 2000",#F2F2F2
+050,Usopp vs. Daddy The Father! Showdown at High Noon!,"November 29, 2000",#CCFFFF
+051,A Burning Culinary Battle? Sanji vs. The Gorgeous Chef,"December 6, 2000",#CCFFFF
+052,Buggy's Revenge! The Man who Smiles at the Execution Platform!,"December 13, 2000",#F2F2F2
+1,Adventure in the Ocean's Navel,"December 20, 2000",#FF9F80
+053,The Legend Has Begun! Head to the Grand Line,"January 10, 2001",#F2F2F2
+054,"Foreboding of a New Adventure! The Puzzling Girl, Apis","January 17, 2001",#CCFFFF
+055,The Holy Beast! Apis' Secret and the Legendary Island,"January 24, 2001",#CCFFFF
+056,Eric's Raid! Great Escape from Gunkan Island!,"January 31, 2001",#CCFFFF
+057,Lone Island in a Distant Sea! The Legendary Lost Island,"February 7, 2001",#CCFFFF
+058,Duel in the Ruins! Strained Zoro vs. Eric,"February 21, 2001",#CCFFFF
+059,"Luffy, Completely Surrounded! Admiral Nelson's Secret Plan","February 21, 2001",#CCFFFF
+060,Those Who Soar in the Open Skies! Revival of the 1000 Year Legend,"February 28, 2001",#CCFFFF
+02,Clockwork Island Adventure,"March 3, 2001",#ABCDEF
+1,Jango's Dance Carnival,"March 3, 2001",#FFCC99
+061,Angry Finale! Cross the Red Line!,"March 7, 2001",#F2F2F2
+062,The First Obstacle? Giant Whale Laboon Appears,"March 21, 2001",#F2F2F2
+063,A Man's Promise! Luffy and the Whale Vow to Meet Again,"March 21, 2001",#F2F2F2
+064,A Pirate-Loving Town? Arrival at Whisky Peak,"April 15, 2001",#F2F2F2
+065,Exploding Santoryu! Zoro vs. Baroque Works!,"April 15, 2001",#F2F2F2
+066,A Serious Fight! Luffy vs. Zoro: the Baffling Duel!,"April 22, 2001",#F2F2F2
+067,Deliver Princess Vivi! Luffy Pirates Depart,"April 29, 2001",#F2F2F2
+068,"Try Hard, Koby! Diary of Koby-Meppo's Marine Struggles","May 13, 2001",#F2F2F2
+069,Koby-Meppo's Determination! Vice Admiral Garp's Fatherly Pride,"May 20, 2001",#F2F2F2
+070,Prehistoric Island! The Shadow Lurking in Little Garden!,"May 27, 2001",#F2F2F2
+071,Humongous Battle! The Giants Dorry and Brogy!,"June 3, 2001",#F2F2F2
+072,Luffy's Anger! A Dirty Trick in a Sacred Battle,"June 17, 2001",#F2F2F2
+073,Brogy Wails in Victory! Elbaph's Judgement,"June 24, 2001",#F2F2F2
+074,The Devil's Candle! Tears of Regret and Tears of Anger,"July 15, 2001",#F2F2F2
+075,Luffy Attacked by Magic! Colors Trap,"August 12, 2001",#F2F2F2
+076,Critical Counterattack! Usopp's Quick Wit and Kaenboshi!,"August 19, 2001",#F2F2F2
+077,Farewell to the Giants' Island! On to Arabasta,"August 19, 2001",#F2F2F2
+078,Nami is Sick? Beyond the Snow that Falls on the Ocean!,"August 26, 2001",#F2F2F2
+079,Ambush! The Bliking and Wapol the Blik,"September 2, 2001",#F2F2F2
+080,A Doctorless Island? Adventure in the Country Without a Name!,"September 9, 2001",#F2F2F2
+081,Ya Happy? The Doctor Who is Called a Witch!,"September 16, 2001",#F2F2F2
+082,Dalton's Resolve! Wapol's Forces Land,"October 7, 2001",#F2F2F2
+083,Island that Lives in Snow! Ascend The Drum Rockies!,"October 7, 2001",#F2F2F2
+084,The Blue-Nosed Reindeer! Chopper's Secret,"October 21, 2001",#F2F2F2
+085,Dream of the Outcasts! The Quack Doctor Hiriluk!,"October 28, 2001",#F2F2F2
+086,Hiriluk's Cherry Blossoms and Inherited Will!,"November 4, 2001",#F2F2F2
+087,Against Wapol's Army Corps! The Abilities of the Baku Baku no Mi!,"November 11, 2001",#F2F2F2
+088,Zoan Type Devil's Fruit! Chopper's Seven-Level Transformation,"November 18, 2001",#F2F2F2
+089,When the Kingdom's Rule is Over! The Flag of Conviction Lasts Forever,"November 25, 2001",#F2F2F2
+090,Hiriluk's Cherry Blossoms! Miracle of the Drum Rockies,"December 2, 2001",#F2F2F2
+091,"Farewell, Drum Island! I'm Going Out to Sea!","December 9, 2001",#F2F2F2
+092,The Hero of Arabasta and the Ballerina on Deck,"December 9, 2001",#F2F2F2
+093,Coming to the Desert Kingdom! The Rain-Calling Powder and the Rebel Army,"December 16, 2001",#CCFFFF
+094,Reunion of the Powerful! His Name is Fire Fist Ace,"December 23, 2001",#F2F2F2
+095,Ace and Luffy! Warm Memories and Brotherly Bonds,"January 6, 2002",#F2F2F2
+096,"The Green City, Erumalu and the Kung Fu Dugongs!","January 13, 2002",#F2F2F2
+097,Adventure in the Country of Sand! The Demons that Live in the Scorching Earth,"January 20, 2002",#F2F2F2
+098,Here Come the Desert Pirates! The Men Who Live Free,"January 27, 2002",#CCFFFF
+099,"Spirit of the Fakes! Heart of the Rebel Army, Kamyu!","February 3, 2002",#CCFFFF
+100,Rebel Warrior Koza! The Dream Sworn to Vivi!,"February 10, 2002",#F2F2F2
+101,Heat Haze Duel! Ace vs. Scorpion Man,"February 17, 2002",#CCFFFF
+102,"Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form","February 24, 2002",#CCFFFF
+03,Chopper's Kingdom on the Island of Strange Animals,"March 2, 2002",#ABCDEF
+2,Dream Soccer King,"March 2, 2002",#FFCC99
+103,At Spiders Cafe - The Enemy Ringleaders Meet at 8 o'clock,"March 3, 2002",#F2F2F2
+104,Luffy vs. Vivi! A Tearful Vow for Comrades,"March 10, 2002",#F2F2F2
+105,"The Arabasta War Front! City of Dreams, Rainbase","March 17, 2002",#F2F2F2
+106,Trap in a Desperate Situation! Breaking Into Rain Dinners,"March 24, 2002",#F2F2F2
+107,Operation Utopia Commences! The Wave of Rebellion Begins to Move,"April 14, 2002",#F2F2F2
+108,The Fearsome Bananawani and Mr. Prince,"April 21, 2002",#F2F2F2
+109,The Key to Turning the Tide and a Great Escape! Doru Doru Ball!,"April 28, 2002",#F2F2F2
+110,Merciless Fight to the Death! Luffy vs. Crocodile,"May 5, 2002",#F2F2F2
+111,The Miracle Sprint! Arabasta the Animal Land,"May 12, 2002",#F2F2F2
+112,Rebel Army vs. Royal Army! The Battle will be in Alubarna!,"May 19, 2002",#F2F2F2
+113,Alubarna is Crying! Fierce Fight of Captain Karoo!,"June 2, 2002",#F2F2F2
+114,Swear on Your Crewmate's Dream! Battle at Molehill 4th Avenue,"June 9, 2002",#F2F2F2
+115,Today's Grand Performance! Mane Mane Montage!,"June 16, 2002",#F2F2F2
+116,Transforming Into Nami! Bon Kurei's Hard-Hitting Ballet Kenpo,"June 23, 2002",#F2F2F2
+117,Nami's Whirlwind Warning! Clima-Tact Explosion,"June 30, 2002",#F2F2F2
+118,"Secret of the Royal Family! The Ancient Weapon, Pluton","July 14, 2002",#F2F2F2
+119,Essence of a Mighty Sword! The Power to Cut Steel and the Breath of All Things,"July 21, 2002",#F2F2F2
+120,The Battle is Over! Koza Flies the White Flag,"August 4, 2002",#F2F2F2
+121,Vivi's Voice Goes Unheard! A Hero Descends!,"August 11, 2002",#F2F2F2
+122,Sand Crocodile and Water Luffy! Death Match: Round 2,"August 18, 2002",#F2F2F2
+123,"Smells Like Croc! Run to the Tomb of the Royal Family, Luffy!","August 25, 2002",#F2F2F2
+124,The Nightmare Draws Near! Secret Base of the Suna Suna Clan,"September 1, 2002",#F2F2F2
+125,"Magnificent Wings! My Name is Pell, Guardian Spirit of the Kingdom","September 8, 2002",#F2F2F2
+126,I Will Surpass You! Rain Falls on Arabasta!,"September 15, 2002",#F2F2F2
+127,A Farewell to Arms! Pirates and a Little Justice,"October 6, 2002",#F2F2F2
+128,The Pirates' Banquet and Operation Escape Arabasta!,"October 6, 2002",#F2F2F2
+129,Everything Began That Day! Vivi Tells of Her Adventures!,"October 20, 2002",#F2F2F2
+130,Beware Her Scent! The Seventh One is Nico Robin!,"October 27, 2002",#F2F2F2
+131,The First Patient! Anecdote of the Rumble Ball,"November 3, 2002",#CCFFFF
+132,The Navigator's Mutiny! For an Unwavering Dream!,"November 10, 2002",#CCFFFF
+133,Inherited Recipe! Sanji the Curry Iron Chef,"November 17, 2002",#CCFFFF
+134,I'll Make it Bloom! Manly Usopp's Eight-Shaku Ball,"November 24, 2002",#CCFFFF
+135,"Infamous Pirate Hunter! The Wandering Swordsman, Zoro!","December 1, 2002",#CCFFFF
+136,Zenny of Goat Island and the Pirate Ship in the Mountains!,"December 8, 2002",#CCFFFF
+137,How's That for Profit? Money Lender Zenny's Ambition!,"December 15, 2002",#CCFFFF
+138,Where the Island's Treasure Lies! Zenny Pirates Full Charge!,"December 22, 2002",#CCFFFF
+139,Legend of the Rainbow Mist! Ruluka Island and the Old Man Henzo,"January 5, 2003",#CCFFFF
+140,Inhabitants of Neverland! The Pumpkin Pirates!,"January 12, 2003",#CCFFFF
+141,A Longing for Home! The Inescapable Pirate Graveyard!,"January 19, 2003",#CCFFFF
+142,Frantic Struggle! Wetton's Plans and the Rainbow Tower!,"January 26, 2003",#CCFFFF
+143,And Then the Legend Begins! To the End of the Rainbow!,"February 2, 2003",#CCFFFF
+144,"The Log is Taken! Salvage King, Masira!","February 9, 2003",#F2F2F2
+145,Monsters Appear! Don't Touch the Whitebeard Pirates,"February 16, 2003",#F2F2F2
+146,"Stop Dreaming! The City of Ridicule, Mock Town!","February 23, 2003",#F2F2F2
+04,Dead End Adventure,"March 1, 2003",#ABCDEF
+147,The Pirate's Summit! The Man Who Talks of Dreams and the King of Underwater Exploration,"March 9, 2003",#F2F2F2
+148,The Legendary Family! 'Liar Noland',"March 16, 2003",#F2F2F2
+149,Hard Turn to the Clouds! Find the Southbird!,"March 23, 2003",#F2F2F2
+02,"Open Upon the Great Sea! A Father's Huge, HUGE Dream!","April 6, 2003",#FF9F80
+150,Dreams Don't Come True!? Bellamy vs. The Saruyama Alliance,"April 13, 2003",#F2F2F2
+151,"The 100,000,000 Man!
+The World's Highest Authority and the Pirate Blackbeard","April 20, 2003",#F2F2F2
+152,Sail into the Sky! Ride the Knock-Up Stream,"April 27, 2003",#F2F2F2
+153,This is the Sea of the Sky! The Knight of the Sky and Heaven's Gate,"May 4, 2003",#F2F2F2
+154,Godland Skypiea! The Angels of the Cloud Beach,"May 11, 2003",#F2F2F2
+155,Sacred Ground! The Island Where God Resides and Heaven's Judgement!,"May 18, 2003",#F2F2F2
+156,Criminals Already!? Skypiea's Upholders of the Law,"June 8, 2003",#F2F2F2
+157,Can we Escape!? God's Ordeals are Set in Motion!,"June 15, 2003",#F2F2F2
+158,Trap on Lovely Street! Almighty God Enel,"June 22, 2003",#F2F2F2
+159,"Go Forth, Little Crow! To the Sacrificial Altar","July 6, 2003",#F2F2F2
+160,Survival Rate: 10%! Priest Satori with the Power of Mantra!,"July 13, 2003",#F2F2F2
+161,Peril of the Ordeal of Balls! Fight to the Death in the Lost Forest,"July 20, 2003",#F2F2F2
+162,Chopper's in Danger! Former God vs. Priest Shura,"August 3, 2003",#F2F2F2
+163,Ever Mysterious! Ordeal of String and Ordeal of Love!?,"August 10, 2003",#F2F2F2
+164,Light the Fire of Shandia! Wyper the Warrior,"August 17, 2003",#F2F2F2
+165,"Floating Land of Gold, Jaya! To God's Shrine!","August 24, 2003",#F2F2F2
+166,Eve of Gold Festival! Feelings Toward 'Vearth'!,"September 7, 2003",#F2F2F2
+167,God Enel Appears!! Aubade to the Survivors,"September 21, 2003",#F2F2F2
+168,The Python Strikes! The Survival Game Begins,"October 12, 2003",#F2F2F2
+169,The Life-Threatening Reject! War Demon Wyper's Resolve,"October 19, 2003",#F2F2F2
+170,Fierce Sky Battle! Pirate Zoro vs. Fighter Braham,"October 19, 2003",#F2F2F2
+171,Howling Burn Bazooka!! Luffy vs. War Demon Wyper,"October 26, 2003",#F2F2F2
+172,Ordeal of Swamp! Chopper vs. Priest Gedatsu!!,"November 2, 2003",#F2F2F2
+173,The Invincible Ability! Enel's True Nature Revealed,"November 9, 2003",#F2F2F2
+174,The Vanished City! The Magnificent Ruins of Shandora!!,"November 16, 2003",#F2F2F2
+3,Protect! The Last Great Performance,"December 14, 2003",#FF9F80
+175,Chance of Survival: 0%!! Chopper vs. Priest Ohm,"December 21, 2003",#F2F2F2
+176,Climb Giant Jack!! Showdown in the Upper Ruins,"January 11, 2004",#F2F2F2
+177,Ultimate Test of the Ordeal of Iron! The White-Barbed Death Match!!,"January 18, 2004",#F2F2F2
+178,Gushing Blade Attack! Zoro vs. Priest Ohm!!,"January 25, 2004",#F2F2F2
+179,The Upper Ruins Crumble! The Quintet Finale!!,"February 1, 2004",#F2F2F2
+180,Battle in the Ancient Ruins! God Enel's Desire!!,"February 8, 2004",#F2F2F2
+181,"Ambitions of Fairy Vearth - The Ark, Maxim!!","February 15, 2004",#F2F2F2
+182,Finally Clashing! Pirate Luffy vs. God Enel!!,"February 22, 2004",#F2F2F2
+183,Maxim Rises! The Start of Deathpiea!!,"February 29, 2004",#F2F2F2
+05,The Cursed Holy Sword,"March 6, 2004",#ABCDEF
+3,Take Aim! The Pirate Baseball King,"March 6, 2004",#FFCC99
+184,Luffy's Fall! God's Judgement and Nami's Desire!!,"March 7, 2004",#F2F2F2
+185,Two People Awaken! A Rescue in Front of Burning Love!!,"March 14, 2004",#F2F2F2
+186,Capriccio to Destruction! The Impending Doom of Sky Island!!,"March 21, 2004",#F2F2F2
+187,Guidance from the Sound of a Bell! The Great Warrior and Tales of an Explorer,"March 28, 2004",#F2F2F2
+188,Released from Disgrace! The Tears of the Great Warrior!!,"March 28, 2004",#F2F2F2
+189,Eternal Friendship! The Bell of Oath Echoes Throughout the Giant Ocean!!,"April 4, 2004",#F2F2F2
+190,The Destruction of Angel Island! Terror of the Descending Raigo!!,"April 25, 2004",#F2F2F2
+191,Chop Down Giant Jack! The Last Hope of Escaping,"May 2, 2004",#F2F2F2
+192,The Miracle in God's Country! A Love Song Heard by Angels,"May 9, 2004",#F2F2F2
+193,"The War Draws to a Close! Ringing Far and Wide, the Proud Fantasia","May 23, 2004",#F2F2F2
+194,I Have Come Here! The Weaving of the Poneglyphs,"June 6, 2004",#F2F2F2
+195,Now Heading Towards the Blue Sea!! Memories of an Interwoven Finale,"June 13, 2004",#F2F2F2
+196,Emergency Official Announcement! Notorious Pirate Ship Infiltration!,"June 20, 2004",#CCFFFF
+197,Sanji the Cook! Showing His Real Worth at the Marine Dining-room!,"July 4, 2004",#CCFFFF
+198,Zoro's Imprisonment and Chopper's Emergency Operation!,"July 11, 2004",#CCFFFF
+199,The Search of the Approaching Marines! The Second Person Who Was Captured!,"July 18, 2004",#CCFFFF
+200,Luffy and Sanji's Desperate Decision! Large Rescue Maneuvers!,"August 8, 2004",#CCFFFF
+201,Hot Blood Special Unit Participation! Bridge Offensive and Defensive Battle!,"September 5, 2004",#CCFFFF
+202,Breaking Through the Siege! The Going Merry is Recovered,"September 12, 2004",#CCFFFF
+203,The Missing Pirate Ship! 2nd Round Assault on the Fortress,"September 19, 2004",#CCFFFF
+204,The Gold Recovery Plan and the Waver Recovery Plan!,"October 3, 2004",#CCFFFF
+205,Catch Them All in One Net! Jonathan's Secret Scheme!,"October 3, 2004",#CCFFFF
+206,"So Long, Marine Base! The Final Battle for Freedom","October 10, 2004",#CCFFFF
+207,Big Adventure in Long Ring Long Land,"October 31, 2004",#F2F2F2
+208,The Foxy Pirate Crew and the Davy Back!,"November 7, 2004",#F2F2F2
+209,Round 1! One Lap of the Donut Race,"November 14, 2004",#F2F2F2
+210,Foxy the Silver Fox! A Violent Interference,"November 21, 2004",#F2F2F2
+211,Round 2! Shoot into the Groggy Ring!,"November 28, 2004",#F2F2F2
+212,Rapid-Fire Red Cards! Groggy Ring,"December 5, 2004",#F2F2F2
+213,Round 3! Round and Round Roller Race!,"December 12, 2004",#CCFFFF
+214,Burning Roller Race! Dash into the Final Round!,"December 19, 2004",#CCFFFF
+215,The Screaming Speed Serve! Pirate Dodgeball!,"January 9, 2005",#CCFFFF
+216,Final Match on the Edge! Dharma has Fallen!,"January 9, 2005",#CCFFFF
+217,Captain Confrontation! The Last Fight: Combat!,"January 16, 2005",#F2F2F2
+218,Full Power Noro Noro Beam vs. The Invulnerable Luffy,"January 23, 2005",#F2F2F2
+219,Heroic Fierce Combat! The Fateful Last Battle,"January 30, 2005",#F2F2F2
+220,You Lost Your Memory? It Was Taken? Who Are You?,"February 6, 2005",#CCFFFF
+221,The Mysterious Boy With the Whistle and Robin's Guess!,"February 13, 2005",#CCFFFF
+222,Get Back Your Memories! Landing on the Island!,"February 20, 2005",#CCFFFF
+223,Zoro Sharpens His Fangs! A Fight With a Wild Beast!,"February 27, 2005",#CCFFFF
+06,Baron Omatsuri and the Secret Island,"March 5, 2005",#ABCDEF
+224,The Memory Thief's Final Counterattack Shows His True Nature!,"March 6, 2005",#CCFFFF
+225,The Man of Pride! Foxy the Silver Fox,"March 13, 2005",#CCFFFF
+226,The Nigh Invincible Man? And a Very Dangerous Man!,"March 20, 2005",#CCFFFF
+227,Marine High Admiral Aokiji! The Threat of the Greatest Power,"March 27, 2005",#F2F2F2
+228,Rubber and Ice One-On-One Fight! Luffy vs. Aokiji!,"March 27, 2005",#F2F2F2
+229,"Running Sea Train! The City of Water, Water 7","April 17, 2005",#F2F2F2
+230,The Adventure in the City of Water! Aim for the Giant Shipyard,"April 24, 2005",#F2F2F2
+231,The Franky Family and Iceburg!,"May 1, 2005",#F2F2F2
+232,Galley-La Company! The Magnificent Dock #1,"May 15, 2005",#F2F2F2
+233,The Pirate Kidnapping Incident and the Pirate Ship Waits for Death!,"May 22, 2005",#F2F2F2
+234,Rescuing a Crewmate! The Raid on the Franky House,"June 5, 2005",#F2F2F2
+235,Quarrel in the Moonlight! The Pirate Ship Trembles in Sadness,"June 12, 2005",#F2F2F2
+236,Luffy vs. Usopp! The Spirit of the Clashing Men,"June 19, 2005",#F2F2F2
+237,The City of Water is Shaking! Iceburg was Targeted!,"July 3, 2005",#F2F2F2
+238,Rubberman vs. Fire-Breathing Cyborg,"July 10, 2005",#F2F2F2
+239,The Criminals are the Straw Hat Pirates? The Bodyguards of Water 7,"July 31, 2005",#F2F2F2
+240,"An Eternal Farewell? Nico Robin, The Woman Who Bears Darkness","August 7, 2005",#F2F2F2
+241,Catch Robin! The Determination of the Straw Hat Pirates,"August 14, 2005",#F2F2F2
+242,The Signal is the Explosion! CP9 Starts to Move,"August 21, 2005",#F2F2F2
+243,CP9 Unmasked! Their Shocking True Faces,"September 4, 2005",#F2F2F2
+244,The Secret Bond! Franky and Iceburg,"September 11, 2005",#F2F2F2
+245,"Come Back, Robin! The Confrontation with CP9","September 18, 2005",#F2F2F2
+246,Destruction of the Straw Hat Pirates? The Terror of the Model Leopard!,"October 23, 2005",#F2F2F2
+247,The Man who is Loved by his Ship! Usopp's Tears!,"October 30, 2005",#F2F2F2
+248,Franky's Past! The Day the Sea Train Ran,"November 6, 2005",#F2F2F2
+249,Spandam's Conspiracy! The Day the Sea Train Shook,"November 13, 2005",#F2F2F2
+250,The End of the Legendary Man! The Day the Sea Train Cried,"November 27, 2005",#F2F2F2
+251,The Truth Behind the Betrayal! Robin's Sorrowful Decision!,"November 27, 2005",#F2F2F2
+252,The Steam Whistle Separates the Crew! The Sea Train Begins to Run,"December 4, 2005",#F2F2F2
+253,Sanji Breaks In! The Sea Train Battle in the Storm!,"December 11, 2005",#F2F2F2
+4,The Detective Memoirs of Chief Straw Hat Luffy,"December 18, 2005",#FF9F80
+-,New Year Special: Special Report - Secret of the Straw Hat Pirates!,"January 3, 2006",#FF9F80
+254,The Shout of Nami's Soul! The Return of the Straw Hat!,"January 22, 2006",#F2F2F2
+255,Another Sea Train! Rocket Man Sortie,"January 29, 2006",#F2F2F2
+256,Rescue our Friends! The Oath that Links the Enemies,"February 5, 2006",#F2F2F2
+257,"Smash the Wave! Luffy and Zoro, The Strongest Combo!","February 26, 2006",#F2F2F2
+07,The Giant Mechanical Soldier of Karakuri Castle,"March 4, 2006",#ABCDEF
+258,A Man of Mystery Appears!? His Name is Sogeking!,"March 5, 2006",#F2F2F2
+259,Cook Confrontation! Sanji vs. Ramen Kenpo,"March 12, 2006",#F2F2F2
+260,Duel on the Roof! Franky vs. Nero!,"March 19, 2006",#F2F2F2
+261,Crash! Demon-Cutting Zoro vs. Ship-Cutting T-Bone!,"April 2, 2006",#F2F2F2
+262,Robin Struggles! Sogeking's Clever Scheme!!,"April 16, 2006",#F2F2F2
+263,The Judiciary Island! The Full Picture of Enies Lobby!,"April 30, 2006",#F2F2F2
+264,Operation Disembarkation Commences! The Straw Hat Crew Rushes In!,"May 21, 2006",#F2F2F2
+265,Luffy Charges In! Great Decisive Battle on the Judiciary Island!!,"June 4, 2006",#F2F2F2
+266,Battle with the Giants! Open the Second Door!,"June 11, 2006",#F2F2F2
+267,"The Means of Escaping is Opened! Fly through the Sky, Rocketman!","June 18, 2006",#F2F2F2
+268,Catch Up with Luffy! The Straw Hat Pirates' All-Out War,"June 25, 2006",#F2F2F2
+269,Robin was Betrayed! The Expectations of the World Government!,"June 25, 2006",#F2F2F2
+270,Give Robin Back! Luffy vs. Blueno!,"July 2, 2006",#F2F2F2
+271,Don't Stop! Raise the Signal Fire of a Counterattack!,"July 9, 2006",#F2F2F2
+272,Luffy is in Sight! Gather at the Courthouse Plaza,"July 23, 2006",#F2F2F2
+273,All for the Sake of Protecting My Friends! Gear Second in Motion,"July 30, 2006",#F2F2F2
+274,"Answer Us, Robin! The Outcries of the Straw Hat Crew!!","August 6, 2006",#F2F2F2
+275,Robin's Past! The Girl who was Called a Demon!,"August 13, 2006",#F2F2F2
+276,The Fated Parent and Child! The Mother's Name is Olvia!,"September 10, 2006",#F2F2F2
+277,Tragedy of Ohara! Fear of Buster Call!,"September 24, 2006",#F2F2F2
+278,Say You Want to Live! We are Friends!!,"September 24, 2006",#F2F2F2
+279,Jump Into the Falls! Luffy's Feelings!!,"October 1, 2006",#80FF80
+280,"A Man's Way of Life! Zoro's Techniques, Usopp's Dream","October 8, 2006",#80FF80
+281,Tears Which Weaved the Bond of Friendship! Nami's World Map,"October 15, 2006",#80FF80
+282,Separation Refines a Man! Sanji and Chopper,"October 22, 2006",#80FF80
+283,All for my Friends' Sake! The Darkness Within Robin!,"October 29, 2006",#80FF80
+284,The Blueprints Aren't Passed! Franky's Decision,"November 5, 2006",#F2F2F2
+285,Retrieve the 5 Keys! The Straw Hat Crew vs. CP9,"November 12, 2006",#F2F2F2
+286,Power of the Devil Fruit! Kaku and Jabra Transform,"November 19, 2006",#F2F2F2
+287,"Even if I Die, I Won't Kick you! Sanji's Manly Chivalry","November 26, 2006",#F2F2F2
+288,The Silent Owl's Miscalculation! My Cola is the Water of Life,"December 3, 2006",#F2F2F2
+289,Zoro's New Technique Explodes! The Katana's Name is Sogeking?,"December 10, 2006",#F2F2F2
+290,Uncontrollable! Chopper's Forbidden Rumble,"December 17, 2006",#F2F2F2
+291,Boss Luffy Returns! A Dream or Reality Lottery Trouble,"December 24, 2006",#FFFF79
+292,The Great Mochimaki Race to the Castle! Conspiracy of the Red Nose,"January 7, 2007",#FFFF79
+293,Bubble User Kalifa! Nami Draws Near to the Soap's Trap,"January 14, 2007",#F2F2F2
+294,The Resounding Bad News! The Buster Call is Invoked,"January 21, 2007",#F2F2F2
+295,5 Namis? Counterattack with the Mirage!,"January 28, 2007",#F2F2F2
+296,Nami's Determination! Shoot the Rampaging Chopper!,"February 4, 2007",#F2F2F2
+297,Hunter Sanji Appears? Elegy to the Lying Wolf,"February 11, 2007",#F2F2F2
+298,The Scorching Kick! Full Course of Sanji's Footwork,"February 25, 2007",#F2F2F2
+08,Episode of Alabasta: The Desert Princess and the Pirates,"March 3, 2007",#ABCDEF
+299,The Drawn Sword's Fierce Attack! Zoro vs. Kaku Powerful Slash Showdown,"March 4, 2007",#F2F2F2
+300,Zoro the Fierce God! The Incarnation of Asura Revealed by His Soul,"March 11, 2007",#F2F2F2
+301,Spandam's Shock! A Hero Stands on the Tower of Justice,"March 18, 2007",#F2F2F2
+302,Robin's Liberation! Luffy vs. Lucci: Peak of the Decisive Battle,"March 25, 2007",#F2F2F2
+303,The Criminal is Boss Luffy? Chase the Vanished Great Sakura Tree,"April 1, 2007",#FFFF79
+304,"If I Can't Win, I Can't Protect Anyone! Gear Third Activates","April 8, 2007",#F2F2F2
+305,The Terrifying Past! Dark Justice and Rob Lucci,"April 15, 2007",#F2F2F2
+306,A Phantom Mermaid is Here? Within Fading Consciousness,"April 22, 2007",#F2F2F2
+307,The Island Sinking in Gunfire! Franky's Outcry of Regret,"April 29, 2007",#F2F2F2
+308,Wait for Luffy! Fight to the Death on the Bridge of Hesitation!,"May 6, 2007",#F2F2F2
+309,Feelings Put Into Fists! Luffy's Full-Power Gatling,"May 13, 2007",#F2F2F2
+310,A Friend Approaches from the Sea! The Straw Hat Crew's Strongest Bonds,"May 20, 2007",#F2F2F2
+311,Everyone Escapes! The Path to Victory is for the Pirates,"May 27, 2007",#F2F2F2
+312,Thank You Merry! The Sea of Separation in the Snow,"June 3, 2007",#F2F2F2
+313,The Disturbance of Peace! The Vice-Admiral with the Fist of Love,"June 10, 2007",#F2F2F2
+314,The Strongest Family Lineage? Luffy's Father Revealed!,"June 17, 2007",#F2F2F2
+315,Its Name is The New World! The Whereabouts of the Great Grand Line!,"June 24, 2007",#F2F2F2
+316,Shanks Moves! Ceremony to the Rampaging Age,"July 1, 2007",#F2F2F2
+317,The Girl Searching for the Yagara! Great Investigation in the Water Metropolis!,"July 8, 2007",#CCFFFF
+318,The Mother is Strong! Zoro's Slapstick Housework Help,"July 15, 2007",#CCFFFF
+319,Sanji Crashes! The Mysterious Old Man and Intense Cooking,"July 22, 2007",#CCFFFF
+320,Everyone's Finally Wanted! The Crew of Over Six Hundred Million!,"August 19, 2007",#F2F2F2
+321,The King of Beasts that will Cross the Ocean! The Dream Ship's Magnificent Completion!,"August 26, 2007",#F2F2F2
+322,Goodbye my Lovable Followers! Franky Departs,"September 2, 2007",#F2F2F2
+323,"Departure from the Water City! The Distinction of a Man, Usopp's Duel","September 9, 2007",#F2F2F2
+324,Circling Bounties! The Hometowns Dance as the Ship Advances!,"September 16, 2007",#F2F2F2
+325,The Most Evil Ability! Blackbeard's Darkness Attacks Ace,"September 23, 2007",#F2F2F2
+326,Mysterious Party of Pirates! The Sunny and a Dangerous Trap,"October 14, 2007",#CCFFFF
+327,"Sunny in a Pinch! Roar, Secret Superspeed Mecha","October 21, 2007",#CCFFFF
+328,"The Dream Sinking in the New World! The Pirate of Despair, Puzzle","October 28, 2007",#CCFFFF
+329,The Assassins Attack! The Great Battle Above the Ice Begins,"November 4, 2007",#CCFFFF
+330,The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!,"November 11, 2007",#CCFFFF
+331,Hot Full Throttle! The Twins' Magnetic Power Draws Near,"November 18, 2007",#CCFFFF
+332,The Great Chaos Mansion! The Angry Don and the Imprisoned Crew,"November 25, 2007",#CCFFFF
+333,The Phoenix Returns! The Dream of the Pirate Flag Sworn to a Friend,"December 2, 2007",#CCFFFF
+334,The Super Final Atsu Atsu Battle! Luffy vs. the Scortching Don,"December 9, 2007",#CCFFFF
+335,Waiting in the New World! Farewell to the Courageous Pirates,"December 16, 2007",#CCFFFF
+336,Chopper Man Departs! Protect the TV Station by the Shore,"December 23, 2007",#FFFF79
+337,Venture Into the Devil's Sea! The Mysterious Skeleton Floating Through the Fog,"January 6, 2008",#F2F2F2
+338,The Delight of Having Met People! The Gentleman Skeleton's True Colors,"January 13, 2008",#F2F2F2
+339,One Phenomenon After Another! Disembarking at Thriller Bark,"January 20, 2008",#F2F2F2
+340,The Man Called a Genius! Hogback Appears!,"January 27, 2008",#F2F2F2
+341,Nami in Big Trouble! The Zombie Mansion and the Invisible Man,"February 3, 2008",#F2F2F2
+342,Mystery of the Zombies! Hogback's Nightmarish Research Laboratory,"February 10, 2008",#F2F2F2
+343,His Name is Moria! Trap of the Great Shadow-Stealing Pirate,"February 17, 2008",#F2F2F2
+344,Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness,"February 24, 2008",#F2F2F2
+09,"Episode of Chopper Plus: Bloom in Winter, Miracle Sakura","March 1, 2008",#ABCDEF
+345,Filled with Animals!? Perona's Wonder Garden,"March 2, 2008",#F2F2F2
+346,Disappearing Straw Hat Crew! The Mysterious Swordsman Appears!,"March 9, 2008",#F2F2F2
+347,Leftover Chivalry! The Traitorous Zombie who Protects Nami,"March 16, 2008",#F2F2F2
+348,"Coming from the Sky! That Man is the ""Humming"" Swordsman!","March 23, 2008",#F2F2F2
+349,Luffy in an Emergency! The Living Place of the Strongest Shadow!,"March 30, 2008",#F2F2F2
+350,The Warrior Called a Demon!! The Time of Oars' Resurrection,"April 20, 2008",#F2F2F2
+351,Awakening After 500 Years!! Oars Revives!!,"April 27, 2008",#F2F2F2
+352,Conviction Strong Enough to Beg for One's Life!! Brook Protects his Afro,"May 4, 2008",#F2F2F2
+353,A Man's Oath Never Dies!! To the Friend who Waits Under a Far-Away Sky,"May 11, 2008",#F2F2F2
+354,We will Definitely Meet Again!! Brook and the Cape of the Promise,"May 18, 2008",#F2F2F2
+355,"Food, Nami and Shadows!! Luffy's Angry Counterattack","May 25, 2008",#F2F2F2
+356,Usopp the Strongest? Leave the Negatives to Me,"June 1, 2008",#F2F2F2
+357,Sudden Death of the General Zombies!! Oars in an Adventurous Mood!!,"June 8, 2008",#F2F2F2
+358,"Sanji, the Knight of Flames!! Kick Down the False Ceremony","June 15, 2008",#F2F2F2
+359,Perverted Connection? Sanji's Stolen Dream,"June 22, 2008",#F2F2F2
+360,Saving Hero! The Enemy is the Invincible Princess,"June 29, 2008",#F2F2F2
+361,Perona's Terror!! The U in Uso is the U in Usopp,"July 6, 2008",#F2F2F2
+362,Slashes Dancing on the Roof! Finale - Zoro vs. Ryuma,"July 13, 2008",#F2F2F2
+363,Chopper's Rage!! Hogback's Demonic Medical Practice,"July 20, 2008",#F2F2F2
+364,Oars Roars!! Come Out Straw Hat Crew,"August 3, 2008",#F2F2F2
+365,The Enemy is Luffy!! The Strongest Zombie vs. the Straw Hat Crew,"August 10, 2008",#F2F2F2
+366,Defeat Absalom!! Nami's Lightning Attack of Friendship!!,"August 17, 2008",#F2F2F2
+367,One Down!! Sure Kill Straw Hat Docking?,"August 24, 2008",#F2F2F2
+368,Soundless Invasion!! The Mysterious Visitor: Kuma the Tyrant,"August 31, 2008",#F2F2F2
+369,Oars Plus Moria - The Greatest Combination of Brains and Brawn,"September 7, 2008",#F2F2F2
+370,A Secret Strategy to Turn the Tables - Nightmare Luffy Appears,"September 14, 2008",#F2F2F2
+371,The Straw Hat Crew Annihilated - Full-Throttle Kage Kage Abilities,"September 21, 2008",#F2F2F2
+372,The Battle for Superiority Starts! - Luffy vs. Luffy,"September 28, 2008",#F2F2F2
+373,The Conclusion Arrives! - Deliver the Finishing Blow,"October 5, 2008",#F2F2F2
+374,The Bodies Vanish! - The Morning Sun Pierces Through the Nightmare Island!,"October 12, 2008",#F2F2F2
+375,The Endless Crisis! Orders to Obliterate the Straw Hat Crew,"October 19, 2008",#F2F2F2
+376,Kuma's Nikyu Nikyu Power That Deflect Everything,"November 9, 2008",#F2F2F2
+377,"My Crewmate's Pain is My Pain, Zoro Fights Prepared to Die","November 16, 2008",#F2F2F2
+378,Promise on a Day Long Ago - The Pirate's Song and a Tiny Whale,"November 23, 2008",#F2F2F2
+2,One Piece: Romance Dawn Story,"November 24, 2008",#FFCCCC
+379,Brook's Past - Sad Farewell to the Cheerful Friend,"November 30, 2008",#F2F2F2
+380,Bink's Sake - The Song that Connects the Past and Present,"December 7, 2008",#F2F2F2
+381,"A New Crewmate! - The Musician ""Humming Brook""","December 14, 2008",#F2F2F2
+382,Noro Noro Menace - Return of Foxy the Silver Fox,"December 21, 2008",#CCFFFF
+383,The Great Treasure Contest! Collapse! Spa Island,"December 28, 2008",#CCFFFF
+384,Brook's Hard Struggle - The Difficult Path to Becoming a True Crewmate?,"January 11, 2009",#CCFFFF
+385,Arriving at Halfway Through the Grand Line! The Red Line,"January 18, 2009",#F2F2F2
+386,Hatred of the Straw Hat Crew - Enter Iron Mask Duval,"January 25, 2009",#F2F2F2
+387,The Fated Reunion! Save the Imprisoned Fishman,"February 1, 2009",#F2F2F2
+388,Tragedy! The Truth of the Unmasked Duval,"February 8, 2009",#F2F2F2
+389,Explosion! The Sunny's Super Secret Weapon: Gaon Cannon,"February 15, 2009",#F2F2F2
+390,Landing to Get to Fishman Island - The Sabaody Archipelago,"February 22, 2009",#F2F2F2
+391,"Tyranny! The Rulers of Sabaody, the Celestial Dragons","March 1, 2009",#F2F2F2
+392,New Rivals Gather! The 11 Supernovas,"March 8, 2009",#F2F2F2
+393,The Target is Camie!! The Kidnappers' Evil Draws Near,"March 15, 2009",#F2F2F2
+394,Rescue Camie - The Dark History of the Archipelago,"March 29, 2009",#F2F2F2
+395,Time Limit - The Human Auction Begins,"April 5, 2009",#F2F2F2
+396,The Fist Explodes! Destroy the Auction,"April 12, 2009",#F2F2F2
+397,Huge Panic! Struggle in the Auction Hall,"April 19, 2009",#F2F2F2
+398,Admiral Kizaru Moves! The Sabaody Archipelago in Chaos,"April 26, 2009",#F2F2F2
+399,Break Through the Encirclement! Marines vs. Three Captains,"May 3, 2009",#F2F2F2
+400,Roger and Rayleigh - The Pirate King and His Right Hand,"May 10, 2009",#F2F2F2
+401,Impossible to Avoid!? Admiral Kizaru's Speed of Light Kick!!,"May 17, 2009",#F2F2F2
+402,Overwhelming! The Marine Combat Weapon Pacifista,"May 24, 2009",#F2F2F2
+403,Another Strong Enemy Appears! Broadaxe-Wielding Sentomaru,"May 31, 2009",#F2F2F2
+404,Admiral Kizaru's Fierce Attack - The Straw Hat Crew's Desperate Situation!,"June 7, 2009",#F2F2F2
+405,Disappearing Crew - The Final Day of the Straw Hat Crew,"June 14, 2009",#F2F2F2
+406,Special Historical Arc - Boss Luffy Appears Again,"June 21, 2009",#FFFF79
+407,Special Historical Arc - Destroy! Thriller Company's Trap,"June 28, 2009",#FFFF79
+408,Landing! No-Boys-Allowed Island Amazon Lily,"July 5, 2009",#F2F2F2
+409,Hurry! Back to the Crew - Adventure on the Isle of Women,"July 12, 2009",#F2F2F2
+410,Everyone's Drunk on Love! Pirate Empress Hancock,"July 19, 2009",#F2F2F2
+411,The Secret Hidden on Their Backs - Luffy Encounters the Snake Princess,"August 2, 2009",#F2F2F2
+412,The Heartless Judgment! Marguerite Turned to Stone!!,"August 9, 2009",#F2F2F2
+413,Luffy's Hard Trial! The Power of the Snake Sisters' Haki!!,"August 16, 2009",#F2F2F2
+414,Battle with Full-Powered Abilities!! Gomu Gomu vs. Hebi Hebi,"August 23, 2009",#F2F2F2
+415,Hancock's Confession - The Sisters' Disgusting Past,"August 30, 2009",#F2F2F2
+416,Rescue Ace! The New Destination is the Great Prison,"September 6, 2009",#F2F2F2
+417,Love is a Hurricane! Hancock in Love,"September 13, 2009",#F2F2F2
+418,The Crewmates' Whereabouts - Weather Science and Karakuri Island,"September 20, 2009",#F2F2F2
+419,The Crewmates' Whereabouts - The Island of Giant Birds and the Pink Paradise!,"September 27, 2009",#F2F2F2
+420,The Crewmates' Whereabouts - The Bridge that Connects Islands and Man-Eating Plants,"October 4, 2009",#F2F2F2
+421,The Crewmates' Whereabouts - The Negative Princess and the Devil King!,"October 11, 2009",#F2F2F2
+422,A deadly Infiltration! The Underwater Prison Impel Down!,"October 18, 2009",#F2F2F2
+423,Reunion in Hell!? The User of the Bara Bara No Mi!,"October 25, 2009",#F2F2F2
+424,Break through Crimson Hell! Buggys great Uproar Plan,"November 1, 2009",#F2F2F2
+425,The Prison's strongest Man! Introduction of the Poison-Man Magellan,"November 8, 2009",#F2F2F2
+426,Movie-connected Special: The 'Gold Lion's' Ambition Moves Forward,"November 15, 2009",#FFFF79
+427,Movie-connected Special: 'Little East Blue' is Targeted,"November 22, 2009",#FFFF79
+428,Movie-connected Special: The Amigo Pirate Crew's Vicious Assault,"November 29, 2009",#FFFF79
+429,Movie-connected Special: The Decisive Battle! Luffy vs. Largo,"December 6, 2009",#FFFF79
+10,Strong World,"December 12, 2009",#ABCDEF
+430,"The Imprisoned Royal Shichibukai! Jinbe, Knight of the Sea","December 13, 2009",#F2F2F2
+431,The Trap of Chief Guard Saldeath - Level 3 Starvation Hell,"December 20, 2009",#F2F2F2
+432,The Liberated Swan! Reunion! Bon Kurei,"December 27, 2009",#F2F2F2
+433,Chief Warden Magellan Moves - The Net to Trap Straw Hat Is Complete!,"January 10, 2010",#F2F2F2
+434,Preparations for War! A Decisive Battle in Level 4 - Blazing Hell,"January 17, 2010",#F2F2F2
+435,Magellan's Strength! Bon Kurei Flees Before His Enemy,"January 24, 2010",#F2F2F2
+436,The Fight Finished! Luffy's Final Life Risking Attack,"January 31, 2010",#F2F2F2
+437,Because He's My Friend - Bon Kurei's Do-or-Die Rescue,"February 7, 2010",#F2F2F2
+438,Paradise in Hell - Impel Down Level 5.5,"February 14, 2010",#F2F2F2
+439,Luffy's Treatment Begins - Iva's Miraculous Power!!,"February 21, 2010",#F2F2F2
+440,Believe in Miracles! Bon Kurei Cheers From His Heart,"February 28, 2010",#F2F2F2
+441,Luffy Revives! Iva-san's Jailbreak Plan Begins!!,"March 7, 2010",#F2F2F2
+442,"Ace's Convoy Starts - The Offense and Defense of the Lowest Level, Level 6!","March 14, 2010",#F2F2F2
+443,The Strongest Team is Formed - Shake Impel Down to it's Core!,"March 21, 2010",#F2F2F2
+444,Even More Chaos! Blackbeard Teach Invades,"March 28, 2010",#F2F2F2
+445,A Dangerous Meeting! Blackbeard and Shiryu of the Rain,"April 4, 2010",#F2F2F2
+446,His Spirit Won't Break! Hannyabal Goes All Out,"April 11, 2010",#F2F2F2
+3,One Piece Film Strong World: Episode 0,"April 16, 2010",#FFCCCC
+447,The Jet Pistol of Rage - Luffy vs. Blackbeard,"April 18, 2010",#F2F2F2
+448,Stop Magellan! Iva-san Unleashes His Secret Attack,"April 25, 2010",#F2F2F2
+449,Magellan's Clever Scheme! The Jailbreak Plan is Obstructed,"May 2, 2010",#F2F2F2
+450,The Jailbreak Team Driven Into a Corner - Forbidden Move 'Venom Demon',"May 9, 2010",#F2F2F2
+451,Cause the Last Miracle - Breaking Through the Gate of Justice,"May 16, 2010",#F2F2F2
+452,The Destination is Marine Headquarters - The Ship Sets Out to Rescue Ace!,"May 23, 2010",#F2F2F2
+453,The Crewmates' Whereabouts - Weatheria Report and Cyborg Animals,"May 30, 2010",#F2F2F2
+454,The Crewmates' Whereabouts - Giant Bird Chicks and a Pink Showdown,"June 6, 2010",#F2F2F2
+455,The Crewmates' Whereabouts - The Revolutionary Army and the Forest of Gluttony's Trap!,"June 13, 2010",#F2F2F2
+456,The Crewmates' Whereabouts - The Giant Gravestone and Panties of Gratitude,"June 20, 2010",#F2F2F2
+457,Special Retrospective Before Marineford - The Siblings' Vow!,"June 27, 2010",#80FF80
+458,Special Retrospective Before Marineford - Assemble! The Three Admirals,"July 11, 2010",#80FF80
+459,The Time of the Decisive Battle Draws Near! The Marine's Strongest Battle Formation is Ready!,"July 18, 2010",#F2F2F2
+460,An Enormous Fleet Appears - Invasion! The Whitebeard Pirates,"August 1, 2010",#F2F2F2
+461,The Beginning of the Battle! Ace and Whitebeard's Past,"August 8, 2010",#F2F2F2
+462,The Power to Destroy the World! The Gura Gura no Mi's Ability,"August 15, 2010",#F2F2F2
+463,Burn Everything to Ash! Admiral Akainu's Power,"August 22, 2010",#F2F2F2
+464,The Devil's Descendant! Little Oars Jr. Dashes Off!,"August 29, 2010",#F2F2F2
+465,Only the Winner is Justice - Put Into Motion! Sengoku's Plan!,"September 5, 2010",#F2F2F2
+466,The Straw Hat Team Arrives — The Battlefield Grows More Intense,"September 12, 2010",#F2F2F2
+467,"I'll Save You Even If I Die - Luffy vs. The Marines, The Battle Starts","September 19, 2010",#F2F2F2
+468,Consecutive Battles! Devil Fruit User Army vs. Devil Fruit User Army,"September 26, 2010",#F2F2F2
+469,Kuma Causes Disaster — Iva-san’s Angry Attack,"October 3, 2010",#F2F2F2
+470,Master Swordsman Mihawk - The Black Sword's Slash Draws Near Luffy,"October 10, 2010",#F2F2F2
+471,The Extermination Operation Begins - The Might of the Pacifista Army,"October 17, 2010",#F2F2F2
+472,Akainu's Plot! Whitebeard Entrapped,"October 24, 2010",#F2F2F2
+473,The Encirclement Walls Activated! The Whitebeard Pirates Driven Into a Corner!!,"October 31, 2010",#F2F2F2
+474,The Order to Perform the Execution is Given - Break Through the Encircling Wall!,"November 7, 2010",#F2F2F2
+475,Rush Into the Final Phase! Whitebeard's Maneuver to Turn the Tides,"November 14, 2010",#F2F2F2
+476,Luffy's Strength is Exhausted! All-Out War in the Oris Plaza!!,"November 21, 2010",#F2F2F2
+477,Power that Reduces One's Life - Tension Hormones Return,"November 28, 2010",#F2F2F2
+478,For a Promise!! Luffy and Koby Clash!,"December 5, 2010",#F2F2F2
+479,In Front of the Execution Platform! The Path to Ace is Opened!!,"December 12, 2010",#F2F2F2
+480,The Path they Each Chose - Luffy vs. Garp!,"December 19, 2010",#F2F2F2
+481,Ace Freed! Whitebeard's Final Captain's Order!,"December 26, 2010",#F2F2F2
+482,The Power that Burns Even Fire - Akainu's Ruthless Pursuit,"January 9, 2011",#F2F2F2
+483,Searching for an Answer - Fire Fist Ace Dies on the Battlefield,"January 16, 2011",#F2F2F2
+484,Marine Headquarters Collapses! Whitebeard's Silent Rage!,"January 23, 2011",#F2F2F2
+485,Settling the Score - Whitebeard vs. The Blackbeard Pirates,"January 30, 2011",#F2F2F2
+486,The Start of the Show - Blackbeard's Plot Revealed,"February 6, 2011",#F2F2F2
+487,Akainu's Tenacity! The Fist of Magma Attacks Luffy,"February 13, 2011",#F2F2F2
+488,A Desperate Cry - Seconds of Valor that Change Destiny,"February 20, 2011",#F2F2F2
+4,Infiltrate!! Thousand Sunny,"March 5, 2011",#FFCCCC
+489,Enter Shanks! The Ultimate War Ends at Last,"March 6, 2011",#F2F2F2
+11,One Piece 3D: Straw Hat Chase,"March 19, 2011",#ABCDEF
+490,"Powerful Independent Rivals! The Beginning of the ""New Era""!","March 20, 2011",#F2F2F2
+491,Arrival at the Island of Women - Cruel Reality Tortures Luffy,"March 27, 2011",#F2F2F2
+492,The Strongest Tag-Team! Luffy and Toriko's Hard Struggle!,"April 3, 2011",#FFFF79
+493,Luffy and Ace - The Story of the Brothers' Meeting!,"April 10, 2011",#F2F2F2
+494,Enter Sabo! The Boy From Grey Terminal,"April 17, 2011",#F2F2F2
+495,I Won't Run - Ace's Desperate Rescue Operation,"April 24, 2011",#F2F2F2
+496,Someday to the Sea! The Three Brat's Sake Cups of Oath!,"May 1, 2011",#F2F2F2
+497,Leaving the Dadan Family!? The Secret Base is Complete!,May 82011,#CCFFFF
+498,Apprentice Luffy!? The Man who Fought the Pirate King!,May 152011,#CCFFFF
+499,The Battle Against the Big Tiger! Who Will Be the Captain?!,May 222011,#CCFFFF
+500,Stolen Freedom! The Nobles' Trap Draws Near the Three Brothers,"May 29, 2011",#F2F2F2
+501,The Flames Are Lit - The Gray Terminal's Crisis,"June 5, 2011",#F2F2F2
+502,Where Is Freedom? The Boy's Sad Departure,"June 12, 2011",#F2F2F2
+503,I'm Counting On You! A Letter From a Brother!,"June 19, 2011",#F2F2F2
+504,To Fulfill the Promise - Separate Departures!,"June 26, 2011",#F2F2F2
+505,I Want to See Them! Luffy's Tearful Scream,"July 3, 2011",#F2F2F2
+506,The Straw Hat Crew Shocked! The Bad News is Received,July 102011,#CCFFFF
+507,Reunion with Dark King Rayleigh - It's Time For Luffy's Decision,"July 17, 2011",#F2F2F2
+508,Back to the Captain - Jailbreak from Sky Island and the Incident on the Winter Island,"July 31, 2011",#F2F2F2
+509,Contact! The Great Swordsman Mihawk - Zoro's Struggle of Willpower,"August 7, 2011",#F2F2F2
+510,Sanji's Suffering - The Queen Returns to His Kingdom!,"August 14, 2011",#F2F2F2
+511,"An Unexpected Return! Luffy, to Marineford!","August 21, 2011",#F2F2F2
+512,Delivered to the Crew - The Big News Comes Through!,"August 28, 2011",#F2F2F2
+513,The Pirates Move Out! The Earth Shattering New World,"September 4, 2011",#F2F2F2
+514,Live Through Hell - Sanji's Fight with Men at Stake,"September 11, 2011",#F2F2F2
+515,I'll Get Stronger and Stronger! Zoro's Vow to his Captain,"September 18, 2011",#F2F2F2
+516,"Luffy’s Training Begins. See You 2 Years later, At The Promised Place","September 25, 2011",#F2F2F2
+517,"The New Chapter Begins. Regroup, Straw Hat Pirates!","October 2, 2011",#F2F2F2
+518,A Hair-Trigger! Luffy vs. Fake Luffy,"October 9, 2011",#F2F2F2
+519,"The Marines Move Out, Target the Straw Hat Crew!","October 16, 2011",#F2F2F2
+520,"Massive Gathering, Threat of the Fake Straw Hats!","October 23, 2011",#F2F2F2
+521,The Battle Begins! The Results of Training!,"October 30, 2011",#F2F2F2
+522,Everyone's Reunited! Luffy Sets Sail for the New World!,"November 6, 2011",#F2F2F2
+523,A Shocking Revelation - The Man Who Protected the Sunny!,"November 13, 2011",#F2F2F2
+524,"Undersea Struggle, The Demon of the Deep Appears!","November 20, 2011",#F2F2F2
+525,"Disaster in the Deep Sea, The Straw Hat Crew Gets Lost!","November 27, 2011",#F2F2F2
+5,ONE PIECE 3D! Trap Coaster,"December 1, 2011",#FFCC99
+526,Undersea Volcanic Eruption! Sailing To Fish-Man Island,"December 4, 2011",#F2F2F2
+527,"Landing at Fish-Man Island, The Lovely Mermaids!","December 11, 2011",#F2F2F2
+528,Eruption of Excitement! Sanji's Crisis of Life!,"December 18, 2011",#F2F2F2
+529,Fish-Man Island Collapses?! Shirley's Prediction!,"December 25, 2011",#F2F2F2
+530,"The King of Fish-Man Island, Sea God Neptune!","January 8, 2012",#F2F2F2
+531,Ryugu Palace! Led By The Shark That Was Saved!,"January 15, 2012",#F2F2F2
+532,The Coward Crybaby! Hard-Shell Tower’s Mermaid Princess,"January 22, 2012",#F2F2F2
+533,Emergency Situation! Ryugu Palace Held Captive,"January 29, 2012",#F2F2F2
+534,Ryuugu Palace Shaking! Shirahoshi and the Kidnapping,"February 5, 2012",#F2F2F2
+535,Hody's Attack! The Beginning of his Vengeful Plan!,"February 12, 2012",#F2F2F2
+536,Decisive Battle at Ryugu Palace! Zoro vs. Hody,"February 19, 2012",#F2F2F2
+537,Protect Shirahoshi! Decken's Pursuit,"February 26, 2012",#F2F2F2
+538,The Crew is Defeated!? Hody Controls Ryugu Palace,"March 4, 2012",#F2F2F2
+539,Revived Fate! Nami and the Fish-Man Pirates,"March 18, 2012",#F2F2F2
+540,A Hero Who Freed the Slaves! An Adventurer Tiger!,"March 25, 2012",#F2F2F2
+541,Kizaru Appears! A Trap Aimed at Tiger,"April 1, 2012",#F2F2F2
+542,Team Formation! Save Chopper,"April 8, 2012",#FFFF79
+543,The Hero's Last Moments! The Impact of Tiger's Truth,"April 15, 2012",#F2F2F2
+544,The Pirates Split - Jinbe vs. Arlong,"April 22, 2012",#F2F2F2
+545,Fish-Man Island is Shaking! The Landing of a Celestial Dragon,"April 29, 2012",#F2F2F2
+546,Unexpected Disaster! An Assassin's Bullet Shuts the Future,"May 6, 2012",#F2F2F2
+547,Back to the Present! Hody Begins to Move,"May 13, 2012",#F2F2F2
+548,The Kingdom is Shaking! Instruction for Neptune's Execution,"May 20, 2012",#F2F2F2
+549,A Crack Arises! Luffy vs. Jinbe,"May 27, 2012",#F2F2F2
+550,Hody's Accident - The Evil Drug's True Power!,"June 3, 2012",#F2F2F2
+551,The Decisive Battle Begins at Gyoncorde Plaza!,"June 10, 2012",#F2F2F2
+552,Shocking Confession - The Truth about Otohime's Assassination,"June 17, 2012",#F2F2F2
+553,"Shirahoshi's Tears! Finally, Luffy's Appearance!","June 24, 2012",#F2F2F2
+554,"Big Clash! Straw Hat Pirates vs. 100,000 Opponents","July 1, 2012",#F2F2F2
+555,Explosive Move! Zoro and Sanji Sally Forth!,"July 8, 2012",#F2F2F2
+556,First Showing! Sunny's Secret Weapons!,"July 15, 2012",#F2F2F2
+557,Iron Pirate! Entry of Franky Shogun,"July 29, 2012",#F2F2F2
+558,Noah Approaching! The Crisis of Fish-Man Island's Destruction!,"August 5, 2012",#F2F2F2
+559,"Hurry Up, Luffy! Shirahoshi's Desperate Situation","August 12, 2012",#F2F2F2
+560,Beginning of the Battle! Luffy vs. Hody!,"August 19, 2012",#F2F2F2
+5,Episode of Nami: Tears of a Navigator and the Bonds of Friendship,"August 25, 2012",#FF9F80
+561,Battle Royal! The Group vs. the New Fish-Man Pirates!,"August 26, 2012",#F2F2F2
+562,Luffy is Defeated!? The Hour of Hody's Revenge,"September 2, 2012",#F2F2F2
+563,Shocking Truth! Hody's True Identity!,"September 9, 2012",#F2F2F2
+564,To Zero! Passionate Desire to Luffy!,"September 16, 2012",#F2F2F2
+565,Luffy's Whole Body Blow! Red Hawk Explosion,"September 23, 2012",#F2F2F2
+566,Final Conclusion! Hody's Final Battle,"September 30, 2012",#F2F2F2
+567,Stop Noah! Elephant Gatling of Desperation!,"October 7, 2012",#F2F2F2
+568,To the Future! The Path Towards the Sun!,"October 14, 2012",#F2F2F2
+569,Revealed Secret - The Truth of Ancient Weapons,"October 21, 2012",#F2F2F2
+570,The Crew Is Surprised! The New Marine Fleet Admiral!,"October 28, 2012",#F2F2F2
+571,I Love Sweets! The Emperor Big Mom,"November 4, 2012",#F2F2F2
+572,Grim Prospects! A Trap that Waits in the New World,"November 11, 2012",#F2F2F2
+573,Finally Setting Sail! Goodbye Fish-Man Island,"November 18, 2012",#F2F2F2
+574,To the New World! Aim for the Strongest Sea,"November 25, 2012",#F2F2F2
+575,Z's Ambition Arc - The Little Giant Lily!,"December 2, 2012",#CCFFFF
+576,Z's Ambition Arc - Introduction of the Mystery of the Strongest Army Corps!,"December 9, 2012",#CCFFFF
+6,Episode of Luffy: Hand Island Adventure,"December 15, 2012",#FF9F80
+12,One Piece Film: Z,"December 15, 2012",#ABCDEF
+577,Z's Ambition Arc - A Desperate Big Escape Strategy!,"December 16, 2012",#CCFFFF
+578,Z's Ambition Arc - Luffy vs. Shuzo!,"December 23, 2012",#CCFFFF
+1,Glorious Island,"Part 1: December 23, 2012, Part 2: December 30, 2012",#EECFDD
+579,"Landing! The Burning Island, Punk Hazard","January 6, 2013",#F2F2F2
+580,A Scorching Battle! Luffy vs. the Giant Dragon!,"January 13, 2013",#F2F2F2
+581,The Crew is Confused! The Shocking Beheaded Samurai Appears!,"January 20, 2013",#F2F2F2
+582,Surprise! The Secret of the Island is Finally Revealed .,"January 27, 2013",#F2F2F2
+583,Save the Children! Start of a Gang Fight!,"February 3, 2013",#F2F2F2
+584,A Duel of Swordplay! Brook and the Mysterious Samurai Torso,"February 10, 2013",#F2F2F2
+585,Shichibukai! Trafalgar Law,"February 17, 2013",#F2F2F2
+586,A Big Pinch! Luffy Sinks Into The Cold Lake,"March 3, 2013",#F2F2F2
+587,Clash! Law vs. Vice Admiral Smoker,"March 17, 2013",#F2F2F2
+588,Reunion after Two Years! Luffy and Law,"March 24, 2013",#F2F2F2
+589,Worst of the World - The Scary Scientist Caesar,"March 31, 2013",#F2F2F2
+590,History's Strongest Collaboration vs. Glutton of the Sea,"April 7, 2013",#FFFF79
+591,Chopper Enraged - Master's Tyrannical Experiments,"April 14, 2013",#F2F2F2
+592,Gang Obliteration! Legendary Hitman Attack!,"April 21, 2013",#F2F2F2
+593,Save Nami! Luffy's Snow Mountain Battle,"April 28, 2013",#F2F2F2
+594,Formation! The Pirate Alliance Luffy-Law!,"May 5, 2013",#F2F2F2
+595,Capture Master - The Pirate Alliance's Operation Begins!,"May 12, 2013",#F2F2F2
+596,On the Verge of Annihilation - The Monster of Death Flies in,"May 19, 2013",#F2F2F2
+597,Big Battle - Caesar Activates his True Ability!,"May 26, 2013",#F2F2F2
+598,The Samurai Who Cuts Fire! Foxfire Kin'emon!,"June 2, 2013",#F2F2F2
+599,Shock! The Identity of the Mysterious Man Vergo!,"June 9, 2013",#F2F2F2
+600,Protect the Children! Master's Evil Hands Close in,"June 16, 2013",#F2F2F2
+601,New World's Severe Earthquake - Caesar's Nightmare Experiment,"June 23, 2013",#F2F2F2
+602,History's Worst Slaughter Weapon! Shinokuni,"June 30, 2013",#F2F2F2
+603,The Counterattack Begins! Luffy and Law's Great Escape,"July 7, 2013",#F2F2F2
+604,The Aim is Building R! The Pirate Alliance's Great Assault!,"July 14, 2013",#F2F2F2
+605,Tashigi's Tears - G-5's Suicidal Breakthrough Strategy,"July 21, 2013",#F2F2F2
+606,Vice Admiral's Betrayal! 'Demon Bamboo' Vergo,"July 28, 2013",#F2F2F2
+607,Incandescent Fierce Battle - Luffy vs. Caesar,"August 11, 2013",#F2F2F2
+608,The Mastermind in the Shadows! Doflamingo Moves!,"August 18, 2013",#F2F2F2
+7,Episode of Merry: The Tale of One More Friend,"August 24, 2013",#FF9F80
+609,"Luffy's Freezing to Death!? The Terrifying Snow Woman, Monet!","August 25, 2013",#F2F2F2
+610,Fist Fight! Two Vice Admirals Fight,"September 1, 2013",#F2F2F2
+611,The Small Dragon! Momonosuke Revealed,"September 8, 2013",#F2F2F2
+612,Deadly Combat in Snowstorm - The Straw Hats vs. the Snow Woman,"September 15, 2013",#F2F2F2
+613,Secret Technique Blasts! Zoro's Strongest One-Sword Style!,"September 22, 2013",#F2F2F2
+614,I'll Protect My Friends! Mocha's Desperate Escape,"September 29, 2013",#F2F2F2
+615,Brownbeard's Bitterness! Luffy's Angry Attack,"October 6, 2013",#F2F2F2
+616,Shocking Conclusion! Smoker vs. Vergo!,"October 13, 2013",#F2F2F2
+617,Caesar Defeated! The Strongest Grizzly Magnum,"October 20, 2013",#F2F2F2
+618,Invasion! The Assassin From Dressrosa,"October 27, 2013",#F2F2F2
+619,Rampage! The Invincible Franky Shogun,"November 3, 2013",#F2F2F2
+620,Desperate Situation! Punk Hazard's Big Explosion,"November 10, 2013",#F2F2F2
+621,Capture Caesar - General Cannon Blasts,"November 17, 2013",#F2F2F2
+622,Emotional Meeting! Momonosuke and Kin'emon,"November 24, 2013",#F2F2F2
+623,Regretful Departure - Leaving Punk Hazard!,"December 1, 2013",#F2F2F2
+624,G-5's Annihilation! Doflamingo Assaults!,"December 8, 2013",#F2F2F2
+625,Tension! Aokiji vs. Doflamingo,"December 15, 2013",#F2F2F2
+626,Caesar has Disappeared! The Pirate Alliance Sallies,"December 22, 2013",#CCFFFF
+627,Luffy Dies in the Sea!? The Collapse of the Pirate Alliance,"January 5, 2014",#CCFFFF
+628,Big Reversal! Luffy's Explosive Fist of Fury,"January 12, 2014",#CCFFFF
+629,Violent Shock! Earth-shaking Big News,"January 19, 2014",#F2F2F2
+630,"Adventure! The Country of Love and Passion, Dressrosa","January 26, 2014",#F2F2F2
+631,Swirling Madness - Corrida Colosseum,"February 2, 2014",#F2F2F2
+632,Dangerous Love - Dancing Girl Violet,"February 9, 2014",#F2F2F2
+633,The Most Powerful Unknown Warrior! Lucy Appears,"February 16, 2014",#F2F2F2
+634,The Pirate Prince Cavendish,"February 23, 2014",#F2F2F2
+635,The Fated Reunion - Bellamy the Hyena,"March 2, 2014",#F2F2F2
+636,Supernova! Bartolomeo the Cannibal,"March 16, 2014",#F2F2F2
+637,Rivalry of Warriors! B Block on Fire!,"March 23, 2014",#F2F2F2
+638,One-hit Knockout! The Astounding King Punch,"March 30, 2014",#F2F2F2
+639,Fighting Fish Attack! Break through the Iron Bridge of Death,"April 6, 2014",#F2F2F2
+640,"Adventure! The Island of Fairies, Green Bit","April 13, 2014",#F2F2F2
+641,The Unknown World - Tontatta Kingdom,"April 20, 2014",#F2F2F2
+642,Scheme of the Century - Doflamingo Gets Moving,"April 27, 2014",#F2F2F2
+643,Heaven and Earth Shakes! The True Power of Admiral Fujitora,"May 4, 2014",#F2F2F2
+644,An Angry Blow! The Giant vs. Lucy,"May 11, 2014",#F2F2F2
+645,The Destructive Cannon Explodes! A Close Call for Lucy,"May 18, 2014",#F2F2F2
+646,The Legendary Pirate - Don Chinjao!,"May 25, 2014",#F2F2F2
+647,Light and Shadow - The Darkness Lurking in Dressrosa!,"June 1, 2014",#F2F2F2
+648,"Sortie - The Legendary Hero, Usoland","June 8, 2014",#F2F2F2
+649,The Fierce Battle's Conclusion! Lucy VS Chinjao!,"June 15, 2014",#F2F2F2
+650,Luffy and the Fated Gladiator Rebecca,"June 22, 2014",#F2F2F2
+651,Protect her 'til the End! Rebecca and the Toy Soldier,"June 29, 2014",#F2F2F2
+652,Final Battleground - D Block Battle Begins,"July 6, 2014",#F2F2F2
+653,Decisive Battle! Giolla vs. Straw Hat Crew,"July 13, 2014",#F2F2F2
+654,Blade of Beauty! Cavendish of the White Horse,"July 20, 2014",#F2F2F2
+655,The Great Clash! Sanji VS. Doflamingo,"August 3, 2014",#F2F2F2
+656,Rebecca’s Sword of Death! Backwater Sword Dance,"August 10, 2014",#F2F2F2
+657,The Unluckiest Fighters! Logan vs. Rebecca,"August 17, 2014",#F2F2F2
+658,Shock! The Toy Soldier’s True Identity!,"August 24, 2014",#F2F2F2
+8,3D2Y,"August 30, 2014",#FF9F80
+659,A Chilling Past! The Secret Behind Dressrosa,"August 31, 2014",#F2F2F2
+660,Nightmare! That One Tragic Evening in Dressrosa,"September 7, 2014",#F2F2F2
+661,Shichibukai Confrontation - Law vs. Doflamingo,"September 14, 2014",#F2F2F2
+662,Two Great Forces Face-off! Straw Hat and the Heavenly Demon,"September 21, 2014",#F2F2F2
+663,"Luffy, Startled — The Man Who Will Inherit Ace’s Will","September 28, 2014",#F2F2F2
+664,Start Operation SOP — Usoland Charges,"October 5, 2014",#F2F2F2
+665,Hot Emotions - Rebecca vs. Suleiman,"October 12, 2014",#F2F2F2
+666,Winner Decided!? The End to the D-Block Bash,"October 19, 2014",#F2F2F2
+667,The Admiral's Decision — Fujitora vs. Doflamingo,"October 26, 2014",#F2F2F2
+668,The Final Round Begins — Diamante the Hero Takes the Stage,"November 2, 2014",#F2F2F2
+669,The Castle Moves! Elite Officer Pica Emerges,"November 9, 2014",#F2F2F2
+670,Dragon Claw Explosion! Lucy's Threatening Blow!,"November 16, 2014",#F2F2F2
+671,Defeat Sugar - The Dwarf Soldiers Charge In!,"November 23, 2014",#F2F2F2
+672,The Last Light — The Secret of Our Captain!,"November 30, 2014",#F2F2F2
+673,The Rupture Human — Gladius’ Big Explosion!,"December 7, 2014",#F2F2F2
+674,Liar Usoland on the Run!,"December 14, 2014",#F2F2F2
+675,A Fated Meeting — Kyros and King Riku,"December 21, 2014",#F2F2F2
+676,Operation Failed! Hero Usoland Dies!?,"December 28, 2014",#F2F2F2
+677,The Legend is Back! Kyros' All-out Blow,"January 11, 2015",#F2F2F2
+678,Fire Fist Explosion! The Power of the Revived Mera Mera no Mi,"January 18, 2015",#F2F2F2
+679,Gallant Appearance — Revolutionary Army Chief of Staff Sabo,"January 25, 2015",#F2F2F2
+680,The Devil's Trap — Dressrosa Annihilation Plan,"February 1, 2015",#F2F2F2
+681,The 500 Million Man — The Target is Usoland!,"February 8, 2015",#F2F2F2
+682,Breaking through Enemy Lines - Luffy and Zoro Launch the Counter-Attack,"February 15, 2015",#F2F2F2
+683,"With a Rumbling of the Ground - The God of Destruction, Giant Pica Descends","March 1, 2015",#F2F2F2
+684,Gathering into a Powerful Front! Luffy and a Group of Brutal Warriors!,"March 15, 2015",#F2F2F2
+685,Great Advance! Luffy Army vs. Pica!,"March 22, 2015",#F2F2F2
+686,A Shocking Confession! Law's Soul-burning Vow!,"March 29, 2015",#F2F2F2
+687,A Big Clash! Chief of Staff Sabo vs. Admiral Fujitora,"April 5, 2015",#F2F2F2
+688,A Desperate Situation - Luffy Gets Caught in a Trap!,"April 12, 2015",#F2F2F2
+689,Great Escape! Luffy's Miraculous Elephant Gun!,"April 19, 2015",#F2F2F2
+690,A United Front — Luffy's Breakthrough to Victory,"April 26, 2015",#F2F2F2
+691,The Second Samurai — Evening Shower Kanjuro Appears,"May 3, 2015",#F2F2F2
+692,The Struggle with Pica — Zoro's One Finishing Move,"May 10, 2015",#F2F2F2
+693,Princess of Little People — The Imprisoned Mansherry,"May 17, 2015",#F2F2F2
+694,Invulnerable! The Terrifying Headcracker Doll Army,"May 24, 2015",#F2F2F2
+695,Life-Risking! Luffy is the Trump Card to Victory,"May 31, 2015",#F2F2F2
+696,A Tearful Reunion — Rebecca and Kyros!,"June 7, 2015",#F2F2F2
+697,One Shot One Kill - The Man Who Will Save Dressrosa,"June 14, 2015",#F2F2F2
+698,Anger Explosion - Luffy and Law's Ultimate Secret Plan,"June 21, 2015",#F2F2F2
+699,Noble Family - Doflamingo's True Identity!,"June 28, 2015",#F2F2F2
+700,Ultimate Power - The Secret of the Ope Ope no Mi!,"July 5, 2015",#F2F2F2
+701,Sad Memories - Law the Boy from the White City!,"Jul 12, 2015",#F2F2F2
+702,Celestial Dragon! Doffy's Sublime Past,"July 19, 2015",#F2F2F2
+703,A Difficult Path — Law and Corazon's Life Journey,"August 2, 2015",#F2F2F2
+704,Time Draws Near! Seize the Ope Ope no Mi!,"August 9, 2015",#F2F2F2
+705,A Moment of Resolution - Corazon's Parting Smile!,"August 16, 2015",#F2F2F2
+9,Episode of Sabo: The Three Brothers' Bond - The Miraculous Reunion and the Inherited Will,"August 22, 2015",#FF9F80
+706,"Go, Law - The Kind-hearted Man's Final Battle!","August 23, 2015",#F2F2F2
+707,To Freedom! Law Unleashes the Injection Shot,"August 30, 2015",#F2F2F2
+708,Heated Battle - Law vs. Doflamingo,"September 6, 2015",#F2F2F2
+709,A Decisive Battle Against the Executives - Proud Hajrudin,"September 13, 2015",#F2F2F2
+710,Battle of Love - Navy Leader Sai vs. Baby 5,"September 20, 2015",#F2F2F2
+711,A Man's Pride - Bellamy's Last Assault!,"September 27, 2015",#F2F2F2
+712,Storm and Stress - Hakuba vs. Dellinger,"October 4, 2015",#F2F2F2
+713,Bari-Bari - Homage God Fist Strikes!,"October 11, 2015",#F2F2F2
+714,The Healing Princess — Save Mansherry!,"October 18, 2015",#F2F2F2
+715,Showdown Between Men — Senor's Requiem of Love,"October 25, 2015",#F2F2F2
+716,Stardust of Death — Diamante's Storm of Fierce Attacks,"November 1, 2015",#F2F2F2
+717,Trueno Bastardo! Kyros' Blow of Anger!,"November 8, 2015",#F2F2F2
+718,Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!,"November 15, 2015",#F2F2F2
+719,Aerial Battle - Zoro's Deadly Secret Technique Explodes!,"November 22, 2015",#F2F2F2
+720,See ya Later! Bellamy's Farewell Blow!,"November 29, 2015",#F2F2F2
+721,Law Dies - Luffy's Fierce Assault of Anger!,"December 6, 2015",#F2F2F2
+722,A Blade of Tenacity! The Gamma Knife Counterattack!,"December 13, 2015",#F2F2F2
+10,Adventure of Nebulandia,"December 19, 2015",#FF9F80
+723,Haki Clash - Luffy vs. Doflamingo,"December 20, 2015",#F2F2F2
+724,Impossible to Attack - Trebol's Shocking Secret,"December 27, 2015",#F2F2F2
+725,Anger Erupts! I Will Take Everything upon Myself!,"January 10, 2016",#F2F2F2
+726,Gear Fourth! The Miraculous Boundman!,"January 17, 2016",#F2F2F2
+727,Great Counterattack! Doflamingo's Awakening!,"January 24, 2016",#F2F2F2
+728,Luffy! The All-Out Leo Bazooka!,"January 31, 2016",#F2F2F2
+729,Kaen Ryuo - Protect Luffy's Life,"February 14, 2016",#F2F2F2
+730,"Tears of Miracles! Mansherry's Fight!""","February 21, 2016",#F2F2F2
+731,As Long as We Breathe! Stop the Deadly Birdcage!,"February 28, 2016",#F2F2F2
+732,Dead or Alive! A Fateful Countdown!,"March 6, 2016",#F2F2F2
+733,Attack on a Celestial! Luffy's King Kong Gun of Anger!,"March 20, 2016",#F2F2F2
+734,To Be Free! Dressrosa's Delight!,"March 27, 2016",#F2F2F2
+735,The Unheard-of! Admiral Fujitora's Surprising Decision!,"April 3, 2016",#F2F2F2
+736,Sending a Shock Wave! The Worst Generation Goes Into Action!,"April 10, 2016",#F2F2F2
+737,The Birth of the Legend! The Adventures of the Revolutionary Warrior Sabo!,"April 17, 2016",#F2F2F2
+738,The Brothers' Bond! The Untold Story Behind Luffy and Sabo's Reunion!,"April 24, 2016",#F2F2F2
+739,"The Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!","May 1, 2016",#F2F2F2
+740,Fujitora Takes Action! The Complete Siege of the Straw Hats!,"May 8, 2016",#F2F2F2
+741,A State of Emergency! Rebecca Is Kidnapped!,"May 15, 2016",#F2F2F2
+742,The Bond Between Father and Daughter! Kyros and Rebecca!,"May 22, 2016",#F2F2F2
+743,Manly Spirit! Luffy vs. Fujitora in a Head-to-Head Clash,"May 29, 2016",#F2F2F2
+744,No Way Out! Admiral Fujitora's Ruthless Pursuit!,"June 5, 2016",#F2F2F2
+745,Exchanging the Sons' Cups! Straw Hat Grand Fleet!,"June 12, 2016",#F2F2F2
+746,Clash of the Mightiest — Raging Monsters of the New World,"June 19, 2016",#F2F2F2
+747,The Silver Fortress — The Great Adventures of Luffy and Bart,"June 26, 2016",#CCFFFF
+2,One Piece Film: Gold Episode 0,"July 2, 2016",#EECFDD
+748,An Underground Labyrinth — Luffy vs Mine Cart Man,"July 3, 2016",#CCFFFF
+749,The Sword Technique Heats Up! Law and Zoro Finally Appear!,"July 10, 2016",#CCFFFF
+11,Heart of Gold,"July 16, 2016",#FF9F80
+750,A Desperate Situation - Luffy Fights a Battle in Extreme Heat,"July 17, 2016",#CCFFFF
+13,One Piece Film: Gold,"July 23, 2016",#ABCDEF
+751,"The Start of a New Adventure - Arrival at the Mysterious Island, 'Zou'!","July 31, 2016",#F2F2F2
+752,The New Warlord - Son of the Legendary Whitebeard Arrives,"August 7, 2016",#F2F2F2
+753,A Deadly Elephant Climb - A Great Adventure on the Back of the Giant Elephant!,"August 21, 2016",#F2F2F2
+754,Battle Starts! Luffy vs. the Mink Tribe!,"August 28, 2016",#F2F2F2
+755,Garchu! The Straw Hat Crew Reunites,"September 4, 2016",#F2F2F2
+756,The Counterattack Begins! The Curly Hat Pirates moves out!,"September 11, 2016",#F2F2F2
+757,An Incoming Threat - Jack of the Beasts Pirates!,"September 25, 2016",#F2F2F2
+758,Ruler of Day - Enter Duke Inuarashi!,"October 2, 2016",#F2F2F2
+759,Ruler of Night - Nekomamushi Appears,"October 9, 2016",#F2F2F2
+760,Destruction of the Capital - Curly Hat Pirates Arrive on Land!,"October 16, 2016",#F2F2F2
+761,Race Against Time - The Bond of the Minks and the Crew!,"October 23, 2016",#F2F2F2
+762,The Rascal Returns Home - Emperor Big Mom's Assassin,"October 30, 2016",#F2F2F2
+763,The Truth Behind His Disappearance - Sanji's Shocking Invitation,"November 6, 2016",#F2F2F2
+764,To My Buds! Sanji's Farewell Note!,"November 13, 2016",#F2F2F2
+765,Let's Go See Master Nekomamushi,"November 20, 2016",#F2F2F2
+766,Luffy's Decision - Sanji on the Brink of Quitting!,"November 27, 2016",#F2F2F2
+767,A Volatile Situation - The Dog and the Cat and the Samurai!,"December 4, 2016",#F2F2F2
+768,"The Third One! Raizo of the Mist, the Ninja, Appears!","December 11, 2016",#F2F2F2
+769,A Red Stone! A Guide to the One Piece,"December 18, 2016",#F2F2F2
+770,The Secret of Wano Country — The Kouzuki Clan and the Poneglyph,"December 25, 2016",#F2F2F2
+771,A Man’s Vow — Luffy and Kouzuki Momonosuke,"January 8, 2017",#F2F2F2
+772,The Legendary Journey! The Dog and the Cat and the Pirate King!,"January 15, 2017",#F2F2F2
+773,Returning Nightmare - Assault of the Invulnerable Jack,"January 22, 2017",#F2F2F2
+774,Defensive Battle of Zou - Luffy and Zunisha!,"January 29, 2017",#F2F2F2
+775,Save the Giant Elephant - The Straw Hats Rescue Operation!,"February 5, 2017",#CCFFFF
+776,Descending the Elephant — Setting Sail for Sanji’s Retrieval!,"February 12, 2017",#F2F2F2
+777,To the Levely - Princess Vivi and Princess Shirahoshi,"February 19, 2017",#F2F2F2
+778,To the Levely - Rebecca and the Sakura Kingdom,"February 26, 2017",#F2F2F2
+779,Kaido Returns - The Worst Generation Threatened!,"March 5, 2017",#F2F2F2
+780,A Hungry Front - Luffy and the Marine Rookies!,"March 19, 2017",#CCFFFF
+781,The Persistent Trio — The Great Pursuit for the Straw Hats!,"March 26, 2017",#CCFFFF
+782,Fist of the Devil — Showdown! Luffy vs. Grount,"April 2, 2017",#CCFFFF
+783,Sanji’s Homecoming! Into Big Mom’s Territory!,"April 9, 2017",#F2F2F2
+784,0 and 4 — A Confrontation with Germa 66!,"April 16, 2017",#F2F2F2
+785,The Deadly Poison Crisis — Luffy and Reiju!,"April 23, 2017",#F2F2F2
+786,"Totto Land! Emperor ""Big Mom"" Appears","April 30, 2017",#F2F2F2
+787,"The Emperor’s Daughter — Sanji’s Fiancée ""Pudding""","May 7, 2017",#F2F2F2
+788,A Massive Attack! Mom's Hunger Pangs,"May 14, 2017",#F2F2F2
+789,The Capital Crumbles!? Big Mom and Jinbe,"May 21, 2017",#F2F2F2
+790,The Emperor's Castle — Arrival on Whole Cake Island,"May 28, 2017",#F2F2F2
+791,The Forest of Sweets! Luffy vs. Luffy,"June 4, 2017",#F2F2F2
+792,Mom's Assassin - Luffy and the Seducing Woods!,"June 11, 2017",#F2F2F2
+793,The Seafaring Nation — Judge the King of Germa,"June 18, 2017",#F2F2F2
+794,A Showdown Between Father and Son — Judge vs. Sanji,"June 25, 2017",#F2F2F2
+795,Great Ambition — Big Mom and Caesar,"July 2, 2017",#F2F2F2
+796,Kingdom of Souls — Mom’s Fearsome Power!,"July 9, 2017",#F2F2F2
+797,"A Top Executive! One of the Three Commanders ""Cracker"" Appears","July 16, 2017",#F2F2F2
+798,An Enemy With 800 Million Bounty — Luffy vs. Thousand Arms Cracker,"July 23, 2017",#F2F2F2
+799,Full Force Showdown — Gear Fourth vs. Bisu Bisu Ability,"July 30, 2017",#F2F2F2
+800,1 and 2 — Assemble! The Vinsmoke Family,"August 6, 2017",#F2F2F2
+801,The Benefactor's Life! Sanji and Owner Zeff!,"August 13, 2017",#F2F2F2
+802,An Angry Sanji! The Secret of Germa 66!,"August 20, 2017",#F2F2F2
+12,Episode of East Blue,"August 26, 2017",#FF9F80
+803,The Past that He Let Go of! Vinsmoke Sanji!,"August 27, 2017",#F2F2F2
+804,To East Blue - Sanji's Decision to Set Sail,"September 3, 2017",#F2F2F2
+805,A Battle of Limits - Luffy and the Infinite Biscuits!,"September 17, 2017",#F2F2F2
+806,Power of Fullness - New Gear Fourth Tankman!,"September 24, 2017",#F2F2F2
+807,Saddest Duel - Luffy vs. Sanji Part 1,"October 1, 2017",#F2F2F2
+808,Saddest Duel - Luffy vs. Sanji Part 2,"October 1, 2017",#F2F2F2
+809,A Storm of Revenge! An Enraged Army Comes to Attack!,"October 15, 2017",#F2F2F2
+810,The End of the Adventure - Sanji's Resolute Proposal,"October 22, 2017",#F2F2F2
+811,I'll Wait Here - Luffy vs. the Enraged Army,"October 29, 2017",#F2F2F2
+812,Infiltration Inside the Castle - Steal the Road Poneglyph,"November 5, 2017",#F2F2F2
+813,Face-to-face - Luffy and Big Mom,"November 12, 2017",#F2F2F2
+814,Shout of the Soul - Brook and Pedro's Lightning Operation,"November 19, 2017",#F2F2F2
+815,Farewell — Pudding’s Tears of Resolve,"November 26, 2017",#F2F2F2
+816,The History of the Left Eye - Pedro vs. Baron Tamago,"December 3, 2017",#F2F2F2
+817,Moist Cigarette! The Night Before Sanji's Wedding!,"December 10, 2017",#F2F2F2
+818,The Undaunted Soul - Brook vs. Big Mom,"December 17, 2017",#F2F2F2
+819,Sora's Wish! Germa's Failure - Sanji!,"December 24, 2017",#F2F2F2
+820,Sanji is Back - Luffy’s Great Flat-out Run Counterattack,"January 7, 2018",#F2F2F2
+821,"The Chateau in Turmoil! Luffy, to the Rendezvous!","January 14, 2018",#F2F2F2
+822,The Decision to Part! Sanji and the Straw Hat Bento,"January 21, 2018",#F2F2F2
+823,The Emperor Rolls Over - The Great Brook Rescue Mission!,"January 28, 2018",#F2F2F2
+824,"The Rendezvous! Luffy, a One-on-One at His Limit!","February 4, 2018",#F2F2F2
+825,Liar - Luffy and Sanji,"February 11, 2018",#F2F2F2
+826,Sanji Returns — Crash It! The Tea Party from Hell,"February 18, 2018",#F2F2F2
+827,A Secret Meeting! Luffy vs. The Fire Tank Pirates,"March 04, 2018",#F2F2F2
+828,The Deadly Pact! Luffy & Bege's Allied Forces,"March 18, 2018",#F2F2F2
+829,Luffy’s Secret Plan — Just Before the Curtain Rises! The Conspired Wedding Ceremony,"March 25, 2018",#F2F2F2
+830,Family Gathering — The Curtain Rises! The Tea Party from Hell,"April 1, 2018",#F2F2F2
+831,The Pretend Couple! Enter Sanji ♡ Pudding,"April 8, 2018",#F2F2F2
+832,The Kiss of Death! The Emperor Assassination Plan Begins!,"April 15, 2018",#F2F2F2
+833,Offering up a Sake Cup! Chivalrous Jinbe repays his debt!,"April 22, 2018",#F2F2F2
+834,The Mission Failed!? Big Mom Pirates Counterattack!,"April 29, 2018",#F2F2F2
+835,Run Sanji! SOS Germa 66!,"May 6, 2018",#F2F2F2
+836,The Mystery of Mama - The Island of Giants and the Little Beast,"May 13, 2018",#F2F2F2
+837,Mama's Birthday - The Day that Carmel has disappeared,"May 20, 2018",#F2F2F2
+838,Launchers Explosion! Big Mom Assassination Moment,"May 27, 2018",#F2F2F2
+839,Evil Army - Transformation! Germa 66,"June 3, 2018",#F2F2F2
+840,Cutting the Father-Son Relationship! Sanji and Judge!,"June 10, 2018",#F2F2F2
+841,Tea Party Escape - Luffy VS Big Mom,"June 17, 2018",#F2F2F2
+842,Execution Starts - Luffy Allied Army Annihilation !?,"June 24, 2018",#F2F2F2
+843,The Castle Collapsed - Straw Hat Pirates Begins Great Escape,"July 1, 2018",#F2F2F2
+844,The Spear of Elbaph - Onslaught! The Flying Big Mom,"July 8, 2018",#F2F2F2
+845,Pudding’s Resolve Blazes - The Seducing Woods,"July 15, 2018",#F2F2F2
+846,The Thunder’s Counterattack - Nami and the Stormy Zeus,"July 22, 2018",#F2F2F2
+847,A Coincidental Reunion - Sanji and the Evil Pudding in Love,"July 29, 2018",#F2F2F2
+848,Protecting the Sunny - Fierce Battle! Chopper and Brook,"August 5, 2018",#F2F2F2
+849,Before the Dawn - Guardians Leader Pedro,"August 12, 2018",#F2F2F2
+850,I Will Definitely Return! Luffy’s Life-Risking Departure,"August 19, 2018",#F2F2F2
+13,Episode of Sky Island,"August 25, 2018",#FF9F80
+851,"The Man with a Bounty of Billion - The Strongest Sweet Commander, Katakuri","August 26, 2018",#F2F2F2
+852,A Hard Battle Starts - Luffy vs. Katakuri,"September 2, 2018",#F2F2F2
+853,"The Green Room - An Invincible Helmsman, Jinbe","September 16, 2018",#F2F2F2
+854,The Menacing Mogura — Luffy’s Silent Fight!,"September 23, 2018",#F2F2F2
+855,The End of the Deadly Battle!? Katakuri's Awakening in Anger,"September 30, 2018",#F2F2F2
+856,The Forbidden Secret - Katakuri's Merienda,"October 7, 2018",#F2F2F2
+857,Luffy Fights Back - The Invincible Katakuri's Weak Point!,"October 14, 2018",#F2F2F2
+858,Another Crisis! Gear Fourth vs. Muso Donuts,"October 21, 2018",#F2F2F2
+859,"The Rebellious Daughter, Chiffon - Sanji's Big Plan for Transporting the Cake","October 28, 2018",#F2F2F2
+860,A Man's Way of Life - Bege and Luffy's Determination as Captains,"November 4, 2018",#F2F2F2
+861,The Cake Sank?! Sanji and Bege's Getaway Battle!,"November 11, 2018",#F2F2F2
+862,Sulong - Carrot's Big Mystic Transformation,"November 18, 2018",#F2F2F2
+863,Break Through - The Straw Hats' Mighty Sea Battle!,"November 25, 2018",#F2F2F2
+864,"Finally, They Clash - Emperor vs. Straw Hats","December 9, 2018",#F2F2F2
+865,Dark King's Direct Precepts - The Battle Against Katakuri Turns Around,"December 16, 2018",#F2F2F2
+866,"Finally He Returns - Sanji, the Man Who'll Stop the Emperor","December 23, 2018",#F2F2F2
+867,Lurking in the Darkness - An Assassin Targeting Luffy!,"January 6, 2019",#F2F2F2
+868,One Man's Determination - Katakuri's Deadly Big Fight,"January 13, 2019",#F2F2F2
+869,Wake Up - Kenbunshoku Able to Top The Strongest!,"January 20, 2019",#F2F2F2
+870,A Fist of Divine Speed - Another Gear Fourth Application Activated!,"January 27, 2019",#F2F2F2
+871,"Finally, It's Over - The Climax of the Intense Fight against Katakuri","February 3, 2019",#F2F2F2
+872,A Desperate Situation - The Iron-Tight Entrapment of Luffy!,"February 10, 2019",#F2F2F2
+873,Pulling Back from the Brink - The Formidable Reinforcements Germa!,"February 17, 2019",#F2F2F2
+874,The Last Hope - The Sun Pirates Emerge,"February 24, 2019",#F2F2F2
+875,A Captivating Flavor - Sanji's Cake of Happiness,"March 3, 2019",#F2F2F2
+876,"The Man of Humanity and Justice - Jinbe, a Desperate Massive Ocean Current","March 17, 2019",#F2F2F2
+877,The Parting Time - Pudding's Last Wish,"March 24, 2019",#F2F2F2
+878,The World is Stunned - The Fifth Emperor of the Sea Emerges!,"March 31, 2019",#F2F2F2
+879,To the Levely - The Straw Hats' Sworn Allies Come Together,"April 7, 2019",#F2F2F2
+880,Sabo Goes into Action - All the Captains of the Revolutionary Army Appear!,"April 14, 2019",#F2F2F2
+881,Going into Action - The Implacable New Fleet Admiral Sakazuki,"April 21, 2019",#F2F2F2
+882,The Summit War - The Inherited Will of the Pirate King,"April 28, 2019",#F2F2F2
+883,One Step Forward for Her Dream - Shirahoshi Goes Out in the Sun!,"May 5, 2019",#F2F2F2
+884,I Miss Him - Vivi and Rebecca's Sentiments,"May 12, 2019",#F2F2F2
+885,In the Dark Recesses of the Holyland - A Mysterious Giant Straw Hat,"May 19, 2019",#F2F2F2
+886,The Holy Land in Tumult - The Targeted Princess Shirahoshi!,"May 26, 2019",#F2F2F2
+887,On the Verge - The Two Emperors Targeting Luffy,"June 2, 2019",#F2F2F2
+888,Sabo Gets Angry - Tragedy of the Revolutionary Army Officer Kuma,"June 9, 2019",#F2F2F2
+889,"Finally, It Starts - The Conspiracy-filled Levely!","June 16, 2019",#F2F2F2
+890,Marco! The Keeper of Whitebeard's Last Memento,"June 23, 2019",#F2F2F2
+891,Climbing Up a Waterfall! A Great Journey Through Wano Country's Sea Zone!,"June 30, 2019",#F2F2F2
+892,Wano Country! To the Land of Dancing Sakura and Samurai,"July 7, 2019",#F2F2F2
+893,Otama Appears! Luffy vs. Kaido's Army!,"July 14, 2019",#F2F2F2
+894,He’ll Come! The Legend of Ace in Wano Country!,"July 21, 2019",#F2F2F2
+895,Special Edition! - The Strongest Bounty Hunter Cider,"July 28, 2019",#FFFF79
+896,Special Editon! - Luffy Vs Cidre Guild,"August 4, 2019",#FFFF79
+14,One Piece: Stampede,"August 9, 2019",#ABCDEF
+897,"Save O-Tama! Straw Hat, Bounding through the Wasteland!","August 11, 2019",#F2F2F2
+898,Headliner! The Magician Basil Hawkins Enters the Scene!,"August 18, 2019",#F2F2F2
+899,Confirmed Defeat! The Assault of the Strawman!,"August 25, 2019",#F2F2F2
+900,The Greatest Day! O-Tama’s First Oshiruko!,"September 1, 2019",#F2F2F2
+901,Entering Enemy Territory! The Protagonists Spread into the Town of Bakura!,"September 8, 2019",#F2F2F2
+902,The Yokozuna Appears - The Invincible Urashima Goes After O-Kiku!,"September 15, 2019",#F2F2F2
+903,A Climactic Sumo Battle - Straw Hat vs. the Strongest Ever Yokozuna!,"September 22, 2019",#F2F2F2
+904,Luffy's Intense Anger! Save O-Tama from the Crisis!,"September 29, 2019",#F2F2F2
+905,Fighting for Otama! Fight against Holdem!,"October 6, 2019",#F2F2F2
+906,Strike - The Magician and the Surgeon of Death!,"October 13, 2019",#F2F2F2
+907,20th Anniversary! - Special Romance Dawn,"October 20, 2019",#FFFF79
+908,Arrival of the Treasure Ship - Luffy-tarou Returns the Favor!,"October 27, 2019",#F2F2F2
+909,A Mysterious Gravestone - Reunion at the Oden Castle Ruins!,"November 10, 2019",#F2F2F2
+910,The Legendary Samurai - A Man that Roger Favoured!,"November 17, 2019",#F2F2F2
+911,Defeat the Emperor - The Secret Raid Plan Starts,"November 24, 2019",#F2F2F2
+912,"The Strongest Man - Pillar of the Bandits, Shutenmaru!","December 1, 2019",#F2F2F2
+913,Everyone's Annihilated - Kaido's Bolo Breath of Rage!,"December 8, 2019",#F2F2F2
+914,Finally Clashing - The Ferocious Luffy vs. Kaido,"December 15, 2019",#F2F2F2
+915,"Destructive! One Shot, One Kill - Thunder Bagua!","December 22, 2019",#F2F2F2
+916,Life in Hell! Luffy's Place of Humiliation,"January 5, 2020",#F2F2F2
+917,The Holy Land in Tumult - The Emperor Blackbeard Laughts Boldly,"January 12, 2020",#F2F2F2
+918,Start of the Action - The Great Plan to Overthrow Kaido,"January 19, 2020",#F2F2F2
+919,Great Riot! Prisoner Luffy and Kid!,"January 26, 2020",#F2F2F2
+920,Great Reputation! Sanji's Specialty Soba!,"February 2, 2020",#F2F2F2
+921,"Magnificent - The Most Beautiful Woman of Wano, Komurasaki","February 9, 2020",#F2F2F2
+922,A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!,"February 16, 2020",#F2F2F2
+923,A State of Emergency - Big Mom Closes in!,"February 23, 2020",#F2F2F2
+924,The Capital in an Uproar! Another Assassin Targets Sanji!,"March 15, 2020",#F2F2F2
+925,Great Success - Justice of O-Soba Mask!,"March 22, 2020",#F2F2F2
+926,Desperate Situation - The Threatful Orochi Oniwabanshu,"March 29, 2020",#F2F2F2
+927,A State of Chaos - Fearsome Snake Shogun Orochi,"April 5, 2020",#F2F2F2
+928,A Flower Falls! The Final Moments of the Most Beautiful Woman in Wano Country,"April 12, 2020",#F2F2F2
+929,Conciliation of Prisoners - Luffy and Grandpa Hyo!,"April 19, 2020",#F2F2F2
+930,All-Star! Queen the Plague Appears!,"June 28, 2020",#F2F2F2
+931,Climb - Luffy's Fleeing Play!,"July 5, 2020",#F2F2F2
+932,Life or Death - Queen's Sumo Inferno,"July 12, 2020",#F2F2F2
+933,Gyukimaru - Duel on Oihagi Bridge,"July 19, 2020",#F2F2F2
+934,Great Reversal - Santoryu Beyond the Deadline!,"July 26, 2020",#F2F2F2
+935,Amazement of Zoro - True Identity of the Mysterious Beauty,"Aug 2, 2020",#F2F2F2
+936,"Approach - Ryuo, the Haki of Wano Country","Aug 9, 2020",#F2F2F2
+937,Tonoyasu - The Star of Ebisu Town,"Aug 16, 2020",#F2F2F2
+938,Meet Easily - Identity of Ushimitsu Kozo,"Aug 23, 2020",#F2F2F2
+939,Malediction - Departure in Song of Tonoyasu,"Aug 30, 2020",#F2F2F2
+940,Cruelty - The Reality of SMILE Devil Fruit!,"Sep 6, 2020",#F2F2F2
+941,Toko's Tears - Orochi's Painful Bullets!,"Sep 13, 2020",#F2F2F2
+942,The Straw Hats Intrudes! Uproar! A Fierce Battle at the Execution Room,"Sep 20, 2020",#F2F2F2
+943,Luffy's Determination - Win Through the Sumo Inferno!,"Sep 27, 2020",#F2F2F2
+944,The Coming of the Storm! Big Mom's Great Rampage!,"Oct 4, 2020",#F2F2F2
+945,A Grudge Over Oshiruko - Luffy Gets into a Desperate Situation,"Oct 11, 2020",#F2F2F2
+946,Stop the Emperor of the Sea! Queen's Secret Plan!,"Oct 18, 2020",#F2F2F2
+947,Brutal Ammunition!  The Plague Rounds Aim at Luffy!,"Oct 25, 2020",#F2F2F2
+948,Start Fighting Back! Luffy and the Red Scabbard Samurai!,"Nov 1, 2020",#F2F2F2
+949,We're Here to Win! Luffy's Desperate Scream!,"Nov 8, 2020",#F2F2F2
+950,The Warriors' Dreams - Takeover of Udon,"Nov 15, 2020",#F2F2F2
+951,Orochi's Pursuers! Ninja Army Corps vs. Zoro,"Nov 22, 2020",#F2F2F2
+952,Tensions on Onigashima! Encounter?! The Two Emperors,"Nov 29, 2020",#F2F2F2
+953,Hiyori's Confession! Reunion on Oihagi Bridge,"Dec 6, 2020",#F2F2F2
+954,Its Name is Enma! Oden's Meito!,"Dec 13, 2020",#F2F2F2
+955,A New Alliance?! Kaido's Army Great Assemble,"Dec 20, 2020",#F2F2F2
+956,Decisive Battle Draws Near! The Straw Hat Crew Ready for Battle,"Dec 27, 2020",#F2F2F2
+957,Big News! The Warlords Attack Incident,"Jan 10, 2021",#F2F2F2
+958,The Legendary Battle! Garp and Roger,"Jan 17, 2021",#F2F2F2
+959,The Promised Port! Wano Country Arc Act 3 Opening,"Jan 24, 2021",#F2F2F2
+960,The Best Samurai in Wano Country! Kouzuki Oden Appears,"Jan 31, 2021",#F2F2F2
+961,Tearful Apprentice - Oden and Kin'emon,"Feb 7, 2021",#F2F2F2
+962,Moving Fate Drift Ashore! Whitebeard Pirates!,"Feb 14, 2021",#F2F2F2
+963,Oden's Determination! Whitebeard's Trials!,"Feb 21, 2021",#F2F2F2
+964,Whitebeard's Little Brother! Oden's Great Adventure!,"Feb 28, 2021",#F2F2F2
+965,Blades Crossed! Roger and Whitebeard!,"Mar 7, 2021",#F2F2F2
+966,Roger's Wish! A New Adventure Begins!,"Mar 21, 2021",#F2F2F2
+967,The Bet of a Lifetime! Roger's Adventure,"Mar 28, 2021",#F2F2F2
+968,The Pirate King is Born - Arriving at the Last Island!,"Apr 4, 2021",#F2F2F2
+969,To the Land of Wano! The Roger Pirates Disband!,"Apr 11, 2021",#F2F2F2
+970,Sad News - The Opening of the Great Pirate Era,"Apr 18, 2021",#F2F2F2
+971,Raid! Oden and the Nine Red Scabbards,"Apr 25, 2021",#F2F2F2
+972,The Moment of Conclusion! Oden vs. Kaido!,"May 2, 2021",#F2F2F2
+973,Sentenced to Boil - Oden's Deadly Hour,"May 9, 2021",#F2F2F2
+974,"I'm Oden, and I Was Born to Boil","May 16, 2021",#F2F2F2
+975,The Burning Castle! The Fate of the Kouzuki Clan!,"May 23, 2021",#F2F2F2
+976,Back to the Present! Beyond 20 Years,"May 30, 2021",#F2F2F2
+977,Pirates at Sea! Raid! Onward to Onigashima,"June 6, 2021",#F2F2F2
+978,The Worst Generation Charges in! The Battle of the Stormy Sea,"June 13, 2021",#F2F2F2
+979,Strong Luck!? Leader Kin'emon's Plan,"June 20, 2021",#F2F2F2
+980,Promise of Tears! The Kidnapped Momonosuke,"June 27, 2021",#F2F2F2
+981,A New Companion! Knight of the Sea Jinbe!,"July 4, 2021",#F2F2F2
+982,Kaido's Trump Card - Introducing the Tobi Roppo,"July 11, 2021",#F2F2F2
+983,The Seriousness of the Samurai! The Crew Lands on Onigashima,"July 18, 2021",#F2F2F2
+984,Luffy Goes Out of Control?! Sneaking into Kaido's Banquet,"July 25, 2021",#F2F2F2
+985,Feelings Toward O-tama - Luffy's Furious Blow,"August 1, 2021",#F2F2F2
+986,Fighting Music! The Ability to Attack Luffy!,"August 8, 2021",#F2F2F2
+987,The Failing Dream? The Plot to Lure Sanji!,"August 15, 2021",#F2F2F2
+988,Arrival of Reinforcements! Captain of the Whitebeard Pirates!,"August 22, 2021",#F2F2F2
+989,Oath of Man! Fierce Battle of the Brachio Tank,"August 29, 2021",#F2F2F2
+990,Thunder Bagua! The Appearance of Kaido's Son,"September 5, 2021",#F2F2F2
+991,Enemy or Friend? Luffy and Yamato!,"September 12, 2021",#F2F2F2
+992,I Want to Become Oden - Yamato's Desire,"September 19, 2021",#F2F2F2
+993,Explosive?! The Handcuffs that Shackle Yamato's Freedom!,"September 26, 2021",#F2F2F2
+994,Scabbards One-On-One - Kikunojo vs. Kanjuro,"October 3, 2021",#F2F2F2
+995,Raid! Inheriting the Will of Oden,"October 10, 2021",#F2F2F2
+996,Onigashima in Tumult- Luffy's All-Out War Begins,"October 24, 2021",#F2F2F2
+997,"Moonlight Battle - Berserker ""Sulong""","October 31, 2021",#F2F2F2
+998,The Rebellion of Zeus?! Nami's Desperate Situation!,"November 7, 2021",#F2F2F2
+999,I'll Protect You - Chance Encounter Yamato and Momonosuke,"November 14, 2021",#F2F2F2
+1000,Overwhelming Strength! The Straw Hat Pirates Gather,"November 21, 2021",#F2F2F2
+1001,A Dangerous Invitation! Plan to Eradicate Queen,"November 28, 2021",#F2F2F2
+1002,A New Rivalry! Nami and Ulti!,"December 5, 2021",#F2F2F2
+1003,Tragic Sword! The Red Scabbards vs. Kaido Again,"December 12, 2021",#F2F2F2
+1004,The Inherited Technique - The Explosive Secret Sword of Oden,"December 19, 2021",#F2F2F2
+RC5,Luffy-senpai Support Project! Barto's Secret Room!,"December 26, 2021",#FF9F80
+1005,The Power of Ice Oni! A New Version of the Excite Bullets,"January 9, 2022",#F2F2F2
+1006,I Won't Forgive You! Chopper's Determination!,"January 16, 2022",#F2F2F2
+1007,Zoro's Pursuit! Ice Oni Tag,"January 23, 2022",#F2F2F2
+1008,Nami's Surrender?! Ulti's Wild Headbutt,"January 30, 2022",#F2F2F2
+1009,Sasaki's Onslaught - Armored Division vs. Yamato,"February 6, 2022",#F2F2F2
+1010,Defeat the Ice Oni - Chopper's Fire Plan!,"February 13, 2022",#F2F2F2
+1011,It's Not Okay!! The Spider That Lures Sanji,"February 20, 2022",#F2F2F2
+1012,A Comeback Move! Marco The Phoenix's Flame,"February 27, 2022",#F2F2F2
+1013,Yamato's Past – The Man Aiming for an Emperor's Head,"March 6, 2022",#F2F2F2
+1014,Marco's Tears! The Whitebeard Pirates' Bonds,"April 17, 2022",#F2F2F2
+1015,Straw Hat Luffy - The Man Who Will Become the Pirate King,"April 24, 2022",#F2F2F2
+RC6,Zoro and Sanji-senpai Admiring Project! Barto's Secret Room 2!,"May 1, 2022",#FF9F80
+1016,The Battle of the Monsters! The Three Stubborn Captains,"May 8, 2022",#F2F2F2
+1017,A Barrage of Powerful Techniques! The Fierce Attacks of the Worst Generation!,"May 15, 2022",#F2F2F2
+1018,Kaido Laughs! Four Emperors vs. New Generation!,"May 22, 2022",#F2F2F2
+1019,Otama's Secret Plan! Great Operation Kibi Dango,"May 29, 2022",#F2F2F2
+1020,Sanji Screams! SOS Echoing Throughout the Island,"June 5, 2022",#F2F2F2
+1021,Spank Strike! Sanji's Suffering with the Woman!,"June 12, 2022",#F2F2F2
+1022,No Regrets - The Student and Teacher Bond Between Luffy and the Boss,"June 19, 2022",#F2F2F2
+RC7,A Comprehensive Anatomy! The Legend of Kouzuki Oden!,"June 26, 2022",#FF9F80
+1023,Preparations OK! Chopperphage Nebulizer,"July 3, 2022",#F2F2F2
+1024,Oden Appears! The Confused Hearts of the Red Scabbards!,"July 10, 2022",#F2F2F2
+1025,Annihilation of the Worst Generation!? The Powerful Techniques of the Four Emperors!,"July 17, 2022",#F2F2F2
+1026,The Supernovas Counterattack! The Four Emperors's Disassembly Operation,"July 24, 2022",#F2F2F2
+1027,Protect Luffy! Zoro and Law's Sword Technique,"July 31, 2022",#F2F2F2
+15,One Piece Film: Red,"August 6, 2022",#ABCDEF
+1028,Beyond the Four Emperors - Luffy's Iron Fist Counterattack,"August 7, 2022",#F2F2F2
+1029,A Faint Memory - Luffy and Red-Haired's Daughter Uta,"August 14, 2022",#FFFF79
+1030,The Oath of the New Era! Luffy and Uta,"August 21, 2022",#FFFF79
+RC8,The Legendary Log! Red-Haired Shanks!,"August 28, 2022",#FF9F80
+1031,Nami's Screams - The Desperate Death Race!,"September 4, 2022",#F2F2F2
+1032,The Dawn of the Land of Wano - The All-Out Battle Heats Up!,"September 11, 2022",#F2F2F2
+1033,Settled! Luffy's Accelerating Fist of the Supreme King,"September 18, 2022",#F2F2F2
+1034,Luffy Defeated! The Straw Hats in Jeopardy?!,"September 25, 2022",#F2F2F2
+1035,The Beasts Trampled! The End of the Kouzuki Family!,"October 2, 2022",#F2F2F2
+RC9,A Comprehensive Anatomy! Fierce Fight! The Five from the New Generation!,"October 9, 2022",#FF9F80
+1036,Fight Against the Dark Night - The Commander-in-Chief of Wano Country Sounds Off,"October 16, 2022",#F2F2F2
+1037,Believe in Luffy! The Alliance's Counterattack Begins!,"October 23, 2022",#F2F2F2
+1038,Nami's Lethal Attack! O-Tama's Desperate Challenge!,"October 30, 2022",#F2F2F2
+1039,A Dramatic Increase of Allies! Straw Hats Fight Back!,"November 6, 2022",#F2F2F2
+1040,The Pride of a Helmsman - The Enraged Jinbe!,"November 13, 2022",#F2F2F2
+1041,Great Battle of Monsters! Yamato and Franky,"November 20, 2022",#F2F2F2
+1042,The Predator's Trap - Black Maria's Seduction,"November 27, 2022",#F2F2F2
+1043,Slash the Nightmare - Brook's Sword of Ice!,"December 4, 2022",#F2F2F2
+1044,"Clutch! A Demon Incarnate, Robin!","December 11, 2022",#F2F2F2
+1045,A Spell! Kid and Zoro Facing Threats!,"December 18, 2022",#F2F2F2
+RC10,Great Fierce Battle Special! The Straw Hats vs. the Tobi Roppo,"December 25, 2022",#FF9F80
+1046,Taking a Chance! Both Wings Go into Battle!,"January 8, 2023",#F2F2F2
+1047,Ascend to the Dawn! A Pink Dragon Gets Agitated,"January 15, 2023",#F2F2F2
+1048,For the Future! Yamato and the Great Swordsmen's Pledge,"January 22, 2023",#F2F2F2
+1049,Luffy Soars! Revenge Against the King of the Beasts,"January 29, 2023",#F2F2F2
+1050,Twin Dragons Collide! Momonosuke's Resolve!,"February 5, 2023",#F2F2F2
+1051,A Legend All Over Again! Luffy's Fist Roars in the Sky!,"February 12, 2023",#F2F2F2
+1052,The Situation has Grown Tense! The End of Onigashima!,"February 19, 2023",#F2F2F2
+1053,Sanji's Mutation ? The Two Arms in Crisis!,"February 26, 2023",#F2F2F2
+1054,Death to Your Partner! Killer's Deadly Gamble!,"March 19, 2023",#F2F2F2
+1055,A Shadowy Figure Pulls the Strings! Onigashima in Flames,"March 26, 2023",#F2F2F2
+1056,A Countercharge! Law and Kid's Return-Attack Combination,"April 2, 2023",#F2F2F2
+1057,For Luffy - Sanji and Zoro's Oath,"April 9, 2023",#F2F2F2
+1058,The Onslaught of Kazenbo - Orochi's Evil Clutches Close in,"April 16, 2023",#F2F2F2
+1059,Zoro Faces Adversity - A Monster! King the Wildfire,"April 23, 2023",#F2F2F2
+1060,The Secret of Enma! The Cursed Sword Entrusted to Zoro,"April 30, 2023",#F2F2F2
+1061,Attack of the Devil! Sanji VS Queen,"May 7, 2023",#F2F2F2
+RC11,Great Fierce Battle Special! Zoro vs. an All-Star!,"May 14, 2023",#FF9F80
+1062,King of Hell Three Sword Style - Zoro vs. King,"May 21, 2023",#F2F2F2
+1063,Luffy Accelerates! The Turning Point of a New Era!,"May 28, 2023",#F2F2F2
+1064,Shuron Hakke! A Lawless Dragon Approaches Luffy!,"June 4, 2023",#F2F2F2
+1065,"The Destruction of the Alliance?! Fire up, the Will of the New Generation!","June 11, 2023",#F2F2F2
+RC12,Great Fierce Battle Special! Alliance Counterattack vs. Big Mom,"June 18, 2023",#FF9F80
+1066,Here Comes Main Act! Powerful Techniques of Shockwave and Magnetism,"June 25, 2023",#F2F2F2
+1067,Towards A New Era! Conclusion! The Brats' Resolution,"July 2, 2023",#F2F2F2
+1068,Moon Princess Echoes! The Final Phase of Wano Country!,"July 9, 2023",#F2F2F2
+1069,There is Only One Winner - Luffy vs. Kaidou,"July 16, 2023",#F2F2F2
+1070,Luffy is Defeated?! The Determination of Those Left Behind,"July 30, 2023",#F2F2F2
+1071,Luffy’s Peak - Attained! Gear 5,"August 6, 2023",#F2F2F2
+1072,The Ridiculous Power! Gear 5 in Full Play,"August 13, 2023",#F2F2F2
+1073,No Way Out! A Hellish Scene on Onigashima!,"August 20, 2023",#F2F2F2
+RC13,Luffy-senpai Support Project! Barto's Secret Room 3!,"August 27, 2023",#FF9F80
+1074,Believe in Momo - Luffy's Final Big Move,"September 3, 2023",#F2F2F2
+1075,Twenty Years of Prayer! Reclaim Wano Country,"September 10, 2023",#F2F2F2
+1076,The World That Luffy Wants!,"September 17, 2023",#F2F2F2
+1077,"The Curtain Falls! The Winner, Straw Hat Luffy!","September 24, 2023",#F2F2F2
+1078,"He Returns! The Shogun of Wano Country, Kouzuki Momonosuke","October 1, 2023",#F2F2F2
+RC14,Luffy-senpai Support Project! Barto's Secret Room 4!,"October 8, 2023",#FF9F80
+1079,The Morning Comes! Luffy and the Others Rest!,"October 15, 2023",#F2F2F2
+1080,A Celebration Banquet! The New Emperors of the Sea,"October 22, 2023",#F2F2F2
+1081,The World Will Burn! The Onslaught of a Marine Admiral!,"October 29, 2023",#F2F2F2
+1082,The Coming of the New Era! The Red-Haired's Imperial Rage,"November 5, 2023",#F2F2F2
+1083,"The World That Moves On! A New Organization, Cross Guild","November 12, 2023",#F2F2F2
+1084,Time to Depart - Wano Country and the Straw Hats,"November 19, 2023",#CCFFFF
+1085,The Last Curtain! Luffy and Momonosuke's Vow,"November 26, 2023",#F2F2F2
+1086,A New Emperor! Buggy the Star Clown!,"December 3, 2023",#F2F2F2
+1087,The War on the Island of Women! A Case Involving Koby the Hero,"December 10, 2023",#F2F2F2
+1088,Luffy's Dream,"December 17, 2023",#F2F2F2
+RC15,Special Feature! Momonosuke's Path to Becoming a Great Shogun,"December 24, 2023",#FF9F80
+1089,Entering a New Chapter! Luffy and Sabo's Paths!,"January 7, 2024",#F2F2F2
+1090,A New Island! Future Island Egghead,"January 14, 2024",#F2F2F2
+1091,Brimming with the Future! An Adventure on the Island of Science!,"January 21, 2024",#F2F2F2
+1,Monsters: 103 Mercies Dragon Damnation,"January 22, 2024",#FFCCCC
+1092,Bonney's Lamentation! Darkness Lurking on the Future Island,"January 28, 2024",#F2F2F2
+RC16,"Great Fun Project! ""Surgeon of Death"" Trafalgar Law","February 4, 2024",#FF9F80
+1093,The Winner Takes All! Law vs. Blackbeard!,"February 11, 2024",#F2F2F2
+1094,The Mystery Deepens! Egghead Labophase,"February 18, 2024",#F2F2F2
+1095,The Brain of a Genius - Six Vegapunks!,"February 25, 2024",#F2F2F2
+1096,A Forbidden Piece of History! A Theory Concerning a Kingdom,"March 3, 2024",#F2F2F2
+1097,The Will of Ohara! The Inherited Research,"March 17, 2024",#F2F2F2
+1098,The Eccentric Dream of a Genius!,"March 24, 2024",#F2F2F2
+1099,Preparations for Interception! Rob Lucci Strikes!,"March 31, 2024",#F2F2F2
+1100,Unprecedented Power! Luffy vs Lucci!,"April 7, 2024",#F2F2F2
+RC17,Log of Rivalry! The Straw Hats and Cipher Pol,"April 14, 2024",#FF9F80
+1101,The Strongest Form of Humanity! The Seraphim's Abilities!,"April 21, 2024",#F2F2F2
+1102,Sinister Schemes! The Operation to Escape Egghead,"April 28, 2024",#F2F2F2
+1103,Turn Back My Father! Bonney's Futile Wish!,"May 5, 2024",#F2F2F2
+1104,A Desperate Situation! The Seraphim's All-out Attack!,"May 12, 2024",#F2F2F2
+1105,"A Beautiful Act of Treason! The Spy, Stussy","May 19, 2024",#F2F2F2
+1106,Trouble Occurs! Seek Dr. Vegapunk!,"May 26, 2024",#F2F2F2
+1107,A Shudder! The Evil Hand Creeping Up on the Laboratory,"June 2, 2024",#F2F2F2
+1108,Incomprehensible! The Seraphim's Rebellion!,"June 9, 2024",#F2F2F2
+RC18,Making History! The Turbulent Old and New Four Emperors!,"June 16, 2024",#FF9F80
+1109,A Tough Decision! An Unusual United Front!,"June 23, 2024",#F2F2F2
+1110,Survive! Deadly Combat with the Strongest Form of Humanity!,"June 30, 2024",#F2F2F2
+1111,The Second Ohara! The Mastermind's Ambition!,"July 7, 2024",#F2F2F2
+1112,Clash! Shanks vs. Eustass Kid!,"July 14, 2024",#F2F2F2
+1113,"Run, Koby! A Desperate Escape Strategy","July 28, 2024",#F2F2F2
+1114,For the Beloved Pupil - The Fist of Vice Admiral Garp!,"August 4, 2024",#F2F2F2
+1115,"The Marines Surprised! Marine Headquarters' Former Admiral, Kuzan","August 11, 2024",#F2F2F2
+1116,Let's Go Get It! Buggy's Big Declaration,"August 18, 2024",#F2F2F2
+RC19,The Log of Turbulent Revolution - The Revolutionary Army Maneuvers in Secret!,"August 25, 2024",#FF9F80
+1117,Sabo Returns - The Shocking Truth to Be Told!,"September 1, 2024",#F2F2F2
+1118,The Holy Land in Tumult! Sai and Leo's Full-Power Blow!,"September 8, 2024",#F2F2F2
+1119,The Entrusted Message! King Cobra's Resolve,"September 15, 2024",#F2F2F2
+1120,The World is Shaken! The Ruler's Judgement and the Five Elder's Actions!,"September 22, 2024",#F2F2F2
+RC20,Unwavering Justice! The Marines' Proud Log!,"September 29, 2024",#FF9F80
+1121,Garp and Kuzan - A Clash of Justice Between Master and Apprentice,"October 6, 2024",#F2F2F2
+1122,The Last Lesson! Impact Inherited,"October 13, 2024",#F2F2F2
+SP14,One Piece Fan Letter,"October 20, 2024",#FF9F80
+1,The New Beginning! The Straw Hats Reunite!,"November 3, 2024",#FF9F80
+2,Set Sail! The Dawn of Adventure to the New World,"November 10, 2024",#FF9F80
+3,"A Shocking Revelation - A Great Benefactor, Kuma","November 17, 2024",#FF9F80
+4,A Deep Sea Adventure! A Looming Undersea Threat,"November 24, 2024",#FF9F80
+5,Undersea Volcanic Eruption! The Straw Hats in Turmoil,"December 1, 2024",#FF9F80
+6,Mermaids' Paradise! Landing at Fish-Man Island,"December 8, 2024",#FF9F80
+7,A Terror in the Deep Sea! Hody's Ambition,"December 15, 2024",#FF9F80
+8,"A Coward Crybaby! Shirahoshi, the Mermaid Princess","December 22, 2024",#FF9F80
+9,Kidnapping?! Luffy and Shirahoshi,"December 29, 2024",#FF9F80
+10,A Raid Begins! Hody and Decken,"January 5, 2025",#FF9F80
+11,Jinbe's Confession - A Shocking History of the Fish-Men,"January 12, 2025",#FF9F80
+12,Fish-Man Island's Past! Otohime and Tiger,"January 19, 2025",#FF9F80
+7,"Luffy, Law","January 19, 2025",#FFCC99
+13,Tiger's Regret - The Future That Otohime Envisions!,"January 26, 2025",#FF9F80
+14,The Tragedy of Otohime - Hody Declares War,"February 2, 2025",#FF9F80
+15,Hody's Accident! The Princes Strike Back,"February 9, 2025",#FF9F80
+16,Shirahoshi's Desperate Cry - Luffy Begins His Attack!,"February 16, 2025",#FF9F80
+17,"Battle Royal! The Straw Hats vs. 100,000 Opponents","February 23, 2025",#FF9F80
+18,"Fish-Man Island Faces Destruction! Noah, the Ancient Ark","March 2, 2025",#FF9F80
+19,Luffy vs. Hody! All-Out Red Hawk,"March 16, 2025",#FF9F80
+20,The Promise of the Future - The Road Toward the Sun,"March 23, 2025",#FF9F80
+21,"Goodbye, Fish-Man Island! To the New World, the Mightiest Sea in the World","March 30, 2025",#FF9F80
+1123,The World Shakes! The Straw Hats' Hostage Situation,"April 5, 2025",#F2F2F2
+1124,Completely Surrounded! The Operation to Escape Egghead,"April 6, 2025",#F2F2F2
+1125,A Clash of Two Men's Determination! Kizaru and Sentomaru,"April 13, 2025",#F2F2F2
+1126,Looming Despair! Admiral Kizaru's Depressing Mission,"April 20, 2025",#F2F2F2
+1127,Luffy vs. Kizaru! A Fierce Kaleidoscopic Battle,"April 27, 2025",#F2F2F2
+1128,"The Nightmare Strikes - Warrior God of Science and Defense, Saint Saturn","May 4, 2025",#F2F2F2
+RC21,Dr. Chopper's Adventure Checkup - The Ballad of a Father and Daughter -,"May 11, 2025",#FF9F80
+1129,Kuma's Past - Better Off Dead in This World,"May 18, 2025",#F2F2F2
+1130,A History Erased! God Valley of Despair,"May 25, 2025",#F2F2F2
+1131,A Fleeting Moment of Happiness - Kumachi and Ginny,"June 1, 2025",#F2F2F2
+1132,A Pledge to Ginny - Kuma Becomes a Father,"June 8, 2025",#F2F2F2
+1133,To Save His Daughter - Kuma the Timid Pacifist,"June 15, 2025",#F2F2F2
+RC22,Dr. Chopper's Adventure Checkup - Good Friends at a Crossroad -,"June 22, 2025",#FF9F80
+1134,Cruel Fate - Kuma's Decision as a Father,"June 29, 2025",#F2F2F2
+1135,To the Sea Where My Father is! The Future Bonney Chooses,"July 6, 2025",#F2F2F2
+1136,Kuma's Life,"July 13, 2025",#F2F2F2
+1137,"I'm Sorry, Dad - Bonney's Tears and Kuma's Fist","July 27, 2025",#F2F2F2
+1138,"Thank You, Dad - Bonney and Kuma's Warm Embrace","August 3, 2025",#F2F2F2
+1139,Destroy Egghead - The Buster Call is Invoked,"August 10, 2025",#F2F2F2
+1140,An Admired Hero - The Warrior of Liberation Who Saves Bonney,"August 17, 2025",#F2F2F2
+1141,Reliable Reinforcements! Dorry and Brogy Arrive!,"August 24, 2025",#F2F2F2
+RC23,Dr. Chopper's Adventure Checkup - The Proud Dream of the Giants -,"August 31, 2025",#FF9F80
+1142,"Come In, World - Vegapunk's Message","September 7, 2025",#F2F2F2
+1143,Vegapunk's Secret Plan - A Tense Worldwide Broadcast,"September 14, 2025",#F2F2F2
+1144,The Worst Nightmare - The Five Elders Come Together,"September 21, 2025",#F2F2F2

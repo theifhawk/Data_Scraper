@@ -14,17 +14,17 @@ fishman = "https://onepiece.fandom.com/wiki/Episode_Guide/Fish-Man_Island_Saga" 
 dressrosa = "https://onepiece.fandom.com/wiki/Episode_Guide/Dressrosa_Saga" # good
 whole_cake = "https://onepiece.fandom.com/wiki/Episode_Guide/Whole_Cake_Island_Saga" # good
 wano = "https://onepiece.fandom.com/wiki/Episode_Guide/Wano_Country_Saga" # good
-final = "https://onepiece.fandom.com/wiki/Episode_Guide/Final_Saga"
+final = "https://onepiece.fandom.com/wiki/Episode_Guide/Final_Saga" # no work
 
 def scrape():
-    url = "https://onepiece.fandom.com/wiki/Episode_Guide/Final_Saga"
+    url = "https://onepiece.fandom.com/wiki/Episode_Guide/Summit_War_Saga"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     tags = soup.find_all('table', class_="collapsible collapsed")
     episodes = []
     for tag in tags:
         episodes.append(tag)
-    tag_finder.find_info(episodes)
+    #tag_finder.find_info(episodes)
     return(tag_finder.find_info(episodes))
 
 def op_scrape():
@@ -38,20 +38,18 @@ def op_scrape():
         for tag in tags:
             episodes.append(tag)
 
-    
     all = tag_finder.find_info(episodes)
-
-    print(all)
+    return(all)
 
 
 def main():
-    OP_table = ['Episode Number', 'English Title' , 'Japanese Title', 'Release Date', 'Color']
-    OP_data = scrape()
+    OP_table = ['Episode Number', 'English Title', 'Release Date', 'Color']
+    OP_data = op_scrape()
     df = pd.DataFrame(columns = OP_table)
     for row in OP_data:
         length = len(df)
         df.loc[length] = row
-    #df.to_csv('output.csv', index=False)
+    df.to_csv('output.csv', index=False)
     print(df)
 
 if __name__ == "__main__":

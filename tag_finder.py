@@ -20,12 +20,22 @@ def find_info(episodes):
             ep = []
             ep.append(tag_td[0].get_text().strip())
             ep.append(tag_a[0].get_text().strip())
-            ep.append(contents[2].strip())
+            #ep.append(contents[2].strip())
             ep.append(tag_td[1].get_text().strip())
             ep.append(background_value)
             ep_list.append(ep)
-
     return(ep_list)
+
+def find_infos(episodes):
+    ep_list = []
+    for episode in episodes:
+        if episode:
+            tag_tr = episode.find_all('tr')
+            tag_td = episode.find_all('td')
+            print()
+            tag_th = episode.find('th')
+            contents = tag_th.contents
+            print(contents[2].strip())
 
 
         
